@@ -1,0 +1,5 @@
+文件以应用id.json命名。添加新应用时需要创建一个新的配置文件
+
+ps:配置字段请查看https://wwe.lvdoui.net/docs/adConfig.html
+
+conceal.json为广告遮挡，不需要可删除

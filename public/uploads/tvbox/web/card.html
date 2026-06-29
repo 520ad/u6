@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>正在跳转</title>
+	<style>
+		.container {
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			height: 100vh;
+		}
+	</style>
+	<script>
+		window.onload = function() {
+			var count = 3;
+			var countdown = setInterval(function() {
+				document.getElementById('countdown').innerText = '正在跳转 ' + count + 's';
+				count--;
+				if (count < 0) {
+					clearInterval(countdown);
+					window.location.href = "https://www.baidu.com";
+				}
+			}, 1000); // 每隔一秒更新倒计时
+		}
+	</script>
+</head>
+<body>
+	<div class="container">
+		<h1 id="countdown">正在跳转 3s</h1>
+	</div>
+</body>
+</html>
+
+<!--卡密中转站。如果你没有卡密网，可以把script部分的跳转代码注释掉，然后修改正在跳转 3s，活动未开放-->
+
+

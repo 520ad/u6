@@ -1,0 +1,25 @@
+{
+    "home_ui" : "0",
+    "home_live" : "开启",
+    "home_info" : "开启",
+    "home_push" : "开启",
+    "home_cover" : "#CC44566E",
+    "home_cover_img" : "https://app.lvdoui.net/uploads/tvbox/home_vod_bg.png",
+    "custom_depot" : "开启",
+    "auto_logon" : "开启",
+    "release_url"  : "https://baidu.com",
+    "x5_tbs_arm64_v8a"  : "http://file.lvdoui.net/arm64_v8a/x5.tbs.apk",
+    "x5_tbs_armeabi_v7a"  : "http://file.lvdoui.net/armeabi_v7a/x5.tbs.apk",
+    "vod_blurb" : "https://api.tiankongapi.com/api.php/provide/vod/?ac=detail&wd=",
+    "about" : "本项目基于https://github.com/FongMi/TV仓库二次开发(223-0516)。支持后台管理仓库、会员系统、卡密系统、批量生成账号、卡密(后台)",
+    "urls": [
+        {
+            "url": "https://app.lvdoui.net",
+            "name": "备用线路一"
+        },
+        {
+            "url": "http://adm-demo.lvdoui.net",
+            "name": "备用线路er"
+        }
+    ]
+}

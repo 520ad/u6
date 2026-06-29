@@ -1,0 +1,18 @@
+.mod-ct {
+    min-width: 300px;
+    max-width: 640px;
+    margin: 0 auto;
+    margin-top: 15px;
+    background: #fff url("wave.png") top center repeat-x;
+    text-align: center;
+    color: #333;
+    border: 1px solid #e5e5e5;
+    border-top: none
+}
+
+.mod-ct .tip {
+    margin-top: 20px;
+    border-top: 1px dashed #e5e5e5;
+    padding: 10px 0;
+    position: relative
+}

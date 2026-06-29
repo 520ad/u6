@@ -1,0 +1,83 @@
+{
+  "use": "sdk,img",
+  "home_live": "开启",
+  "custom_depot": "开启",
+  "about": "本项目基于https://github.com/FongMi/TV仓库二次开发(2.3.7)。支持后台管理仓库、会员系统、卡密系统、批量生成账号、卡密(json)",
+  "flag": "douyin,lzm3u8",
+  "urls": [
+    {
+      "url": "https://app.lvdoui.net",
+      "name": "备用线路一"
+    },
+    {
+      "url": "http://adm-demo.lvdoui.net",
+      "name": "备用线路er"
+    }
+  ],
+  "img": [
+    {
+      "reward": "0",
+      "name": "视频页",
+      "event": "开启",
+      "img": "http://app.lvdoui.net/uploads/tvbox/config/vod_demos.jpg",
+      "url": "https://wap.baidu.com|webs"
+    },
+    {
+      "reward": "0",
+      "name": "个人中心",
+      "event": "开启",
+      "img": "http://app.lvdoui.net/uploads/20240422/b0510e2d4b4fa31ada2651d1d135a81c.jpg",
+      "url": "mall"
+    }
+  ],
+  "sdk": [
+    {
+      "reward": "1",
+      "name": "应用id",
+      "event": "开启",
+      "id": "1674030830888161281"
+    },
+    {
+      "reward": "1",
+      "name": "开屏",
+      "event": "开启",
+      "id": "1674031246761791489"
+    },
+    {
+      "reward": "5",
+      "name": "激励视频",
+      "event": "video,welfare",
+      "id": "1674031298804715521"
+    },
+    {
+      "reward": "1",
+      "name": "插屏",
+      "event": "home,video,welfare",
+      "id": "1674031345340518401"
+    },
+    {
+      "reward": "1",
+      "name": "信息流",
+      "event": "home,video,welfare",
+      "id": "1674031400617250818"
+    },
+    {
+      "reward": "1",
+      "name": "横幅",
+      "event": "history,keep,video,welfare",
+      "id": "1674031502559809538"
+    },
+    {
+      "reward": "1",
+      "name": "全屏视频",
+      "event": "welfare",
+      "id": "1778729970661855234"
+    },
+    {
+      "reward": "1",
+      "name": "视频贴片",
+      "event": "video",
+      "id": "1778791031159132162"
+    }
+  ]
+}
