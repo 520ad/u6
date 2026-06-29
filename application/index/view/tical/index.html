@@ -1,0 +1,42 @@
+<div id="content-container" class="container">
+    <div class="row">
+        <div class="col-md-3">
+            {include file="common/sidenav" /}
+        </div>
+        <div class="col-md-9">
+            <div class="panel panel-default panel--recharge">
+                <div class="panel-body">
+                    <h2 class="page-header">{:__('自助提卡')} <a href="{:url('tical/mycal')}" class="btn btn-primary btn-recharge pull-right">{:__('我的卡密')}</a></h2>
+                    <div class="alert alert-danger-light">
+                        请妥善保管您的卡密，因为任何人都可以使用它<br>
+                    </div>
+                    <div class="">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th class="text-center">id</th>
+                                    <th class="text-center">套餐</th>
+                                    <th class="text-center">单价</th>
+                                    <th class="text-center">操作</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {volist name="list" id="vo"}
+                                <tr>
+                                    <td class="text-center">{$vo.id}</td>
+                                    <td class="text-center">{$vo.name}</td>
+                                    <th class="text-center">{$vo.price}</th>
+                                    <td class="text-center">
+                                        <a href="tical?id={$vo.id}" class="btn btn-info btn-xs btn-combine"
+                                            data-orderid="">提卡</a>
+                                    </td>
+                                </tr>
+                                {/volist}
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

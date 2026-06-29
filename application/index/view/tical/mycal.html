@@ -1,0 +1,61 @@
+<div id="content-container" class="container">
+    <div class="row">
+        <div class="col-md-3">
+            {include file="common/sidenav" /}
+        </div>
+        <div class="col-md-9">
+            <div class="panel panel-default panel-page">
+                <div class="panel-heading">
+                    <form action="{:url('user/mydevice')}" method="post">
+                        <h2>我的卡密
+                        <a href="deletemycal?id=allhidden" class="btn btn-warning btn-xs btn-combine" >删除已使用</a>
+                        <a href="leading_out?type=2&name=天卡" class="btn btn-info btn-xs btn-combine" >导出天卡</a>
+                        <a href="leading_out?type=3&name=周卡" class="btn btn-info btn-xs btn-combine" >导出周卡</a>
+                        <a href="leading_out?type=4&name=月卡" class="btn btn-info btn-xs btn-combine" >导出月卡</a>
+                        <a href="leading_out?type=5&name=年卡" class="btn btn-info btn-xs btn-combine" >导出年卡</a>
+                        <a href="leading_out?type=6&name=永久卡" class="btn btn-info btn-xs btn-combine" >导出永久卡</a>
+                        </h2>
+                    </form>
+                </div>
+                <div class="panel-body p-0">
+                    <div class="alert alert-danger-light">
+                        请妥善保管您的账号和卡密，因为任何人都能使用它<br>
+                    </div>
+                    <div class="">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th class="text-center">卡密</th>
+                                    <th class="text-center">类型</th>
+                                    <th class="text-center">创建时间</th>
+                                    <th class="text-center">使用人</th>
+                                    <th class="text-center">使用时间</th>
+                                    <th class="text-center">操作</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {volist name="mycallist" id="vo"}
+                                <tr>
+                                    <td class="text-center">{$vo.card}</td>
+                                    <td class="text-center">{$vo.type}</td>
+                                    <td class="text-center">{$vo.creattime|datetime}</td>
+                                    <td class="text-center">{$vo.user_id}</td>
+                                    {if condition="$vo.usagetime == null"}
+                                    <th class="text-center">未使用</th>
+                                    {else}
+                                    <td class="text-center">{$vo.usagetime|datetime}</td>
+                                    {/if}
+                                    <td class="text-center">
+                                        <a href="deletemycal?id={$vo.id}" class="btn btn-info btn-xs btn-combine" data-orderid="">删除</a>
+                                    </td>
+                                </tr>
+                                {/volist}
+                            </tbody>
+                        </table>
+                        <div class="pager">{$mycallist->render()}</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

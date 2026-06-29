@@ -1,0 +1,190 @@
+<form id="edit-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Message')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <a id="c-msg" href="{$row.msg|htmlentities}" class="form-control">{$row.msg|htmlentities} </a>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('授权列表')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <select id="c-authList" data-rule="required" class="form-control selectpicker" name="row[authList]">
+                {foreach name="authList" item="vo"}
+                <option value="{$vo.id}" {in name="key" value="$row.auth_key" }selected{/in}>{$vo.name}</option>
+                {/foreach}
+            </select>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('编译版本')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <select id="c-build_list" data-rule="required" class="form-control selectpicker" name="row[build_list]">
+                {foreach name="build_list" item="branch"}
+                <option value="{$branch.name}"{in name="key" value="$row.build_key" }selected{/in}>{$branch.name}</option>
+                {/foreach}
+            </select>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('内核架构')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <select id="c-ndk_list" data-rule="required" class="form-control selectpicker" name="row[ndk_list]">
+                {foreach name="ndk_list" item="ndk"}
+                <option value="{$ndk.name}"{in name="key" value="$row.ndk_key" }selected{/in}>{$ndk.name}</option>
+                {/foreach}
+            </select>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('SDK选择')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <select id="c-sdk_list" data-rule="required" class="form-control selectpicker" name="row[sdk_list]">
+                {foreach name="sdk_list" item="sdk"}
+                <option value="{$sdk.name}"{in name="key" value="$row.sdk_key" }selected{/in}>{$sdk.name}</option>
+                {/foreach}
+            </select>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('应用编号')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-id" data-rule="required" class="form-control" name="row[id]" type="text" value="{$row.id|htmlentities}" readonly>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('应用密钥')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-key" data-rule="required" class="form-control" name="row[key]" type="text" value="{$row.key|htmlentities}" readonly>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('应用名称')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-name" data-rule="required" class="form-control" name="row[name]" type="text" value="{$row.name|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('后台地址')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-adm_url" data-rule="required" class="form-control" name="row[adm_url]" type="text"
+                value="{$row.adm_url|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Version')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-version" data-rule="required" class="form-control" name="row[version]" type="text"
+                value="{$row.version|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Package')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-package" data-rule="required" class="form-control" name="row[package]" type="text"
+                value="{$row.package|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Mtj_key')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-mtj_key" data-rule="required" class="form-control" name="row[mtj_key]" type="text"
+                value="{$row.mtj_key|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Mtj_canal')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-mtj_canal" data-rule="required" class="form-control" name="row[mtj_canal]" type="text"
+                value="{$row.mtj_canal|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Logo_image')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <div class="input-group">
+                <input id="c-logo_image" data-rule="required" class="form-control" size="50" name="row[logo_image]" type="text"
+                    value="{$row.logo_image|htmlentities}">
+                <div class="input-group-addon no-border no-padding">
+                    <span><button type="button" id="faupload-logo_image" class="btn btn-danger faupload"
+                            data-input-id="c-logo_image"
+                            data-mimetype="image/gif,image/jpeg,image/png,image/jpg,image/bmp,image/webp"
+                            data-multiple="false" data-preview-id="p-logo_image"><i class="fa fa-upload"></i>
+                            {:__('Upload')}</button></span>
+                    <span><button type="button" id="fachoose-logo_image" class="btn btn-primary fachoose"
+                            data-input-id="c-logo_image" data-mimetype="image/*" data-multiple="false"><i
+                                class="fa fa-list"></i> {:__('Choose')}</button></span>
+                </div>
+                <span class="msg-box n-right" for="c-logo_image"></span>
+            </div>
+            <ul class="row list-inline faupload-preview" id="p-logo_image"></ul>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Start_image')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <div class="input-group">
+                <input id="c-start_image" data-rule="required" class="form-control" size="50" name="row[start_image]" type="text"
+                    value="{$row.start_image|htmlentities}">
+                <div class="input-group-addon no-border no-padding">
+                    <span><button type="button" id="faupload-start_image" class="btn btn-danger faupload"
+                            data-input-id="c-start_image"
+                            data-mimetype="image/gif,image/jpeg,image/png,image/jpg,image/bmp,image/webp"
+                            data-multiple="false" data-preview-id="p-start_image"><i class="fa fa-upload"></i>
+                            {:__('Upload')}</button></span>
+                    <span><button type="button" id="fachoose-start_image" class="btn btn-primary fachoose"
+                            data-input-id="c-start_image" data-mimetype="image/*" data-multiple="false"><i
+                                class="fa fa-list"></i> {:__('Choose')}</button></span>
+                </div>
+                <span class="msg-box n-right" for="c-start_image"></span>
+            </div>
+            <ul class="row list-inline faupload-preview" id="p-start_image"></ul>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Store_file')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <div class="input-group">
+                <input id="c-store_file" class="form-control" size="50" name="row[store_file]" type="text"
+                    value="{$row.store_file|htmlentities}">
+                <div class="input-group-addon no-border no-padding">
+                    <span><button type="button" id="faupload-store_file" class="btn btn-danger faupload"
+                            data-input-id="c-store_file" data-multiple="false" data-preview-id="p-store_file"><i
+                                class="fa fa-upload"></i> {:__('Upload')}</button></span>
+                    <span><button type="button" id="fachoose-store_file" class="btn btn-primary fachoose"
+                            data-input-id="c-store_file" data-multiple="false"><i class="fa fa-list"></i>
+                            {:__('Choose')}</button></span>
+                </div>
+                <span class="msg-box n-right" for="c-store_file"></span>
+            </div>
+            <ul class="row list-inline faupload-preview" id="p-store_file"></ul>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Store_password')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-store_password" class="form-control" name="row[store_password]" type="text"
+                value="{$row.store_password|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Key_alias')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-key_alias" class="form-control" name="row[key_alias]" type="text"
+                value="{$row.key_alias|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Key_password')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-key_password" class="form-control" name="row[key_password]" type="text"
+                value="{$row.key_password|htmlentities}">
+        </div>
+    </div>
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-primary btn-embossed disabled">{:__('提交')}</button>
+            <button type="reset" class="btn btn-default btn-embossed">{:__('刷新')}</button>
+        </div>
+    </div>
+</form>

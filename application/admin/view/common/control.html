@@ -1,0 +1,157 @@
+<style>
+    .skin-list li{
+        float:left; width: 33.33333%; padding: 5px;
+    }
+    .skin-list li a{
+        display: block; box-shadow: 0 0 3px rgba(0,0,0,0.4);
+    }
+    .skin-list li a span{
+        display: block;
+        float:left;
+    }
+    .skin-list li.active a {
+        opacity: 1;
+        filter: alpha(opacity=100);
+    }
+    .skin-list li.active p {
+        color: #fff;
+    }
+</style>
+<!-- Control Sidebar -->
+<aside class="control-sidebar control-sidebar-dark">
+    <!-- Create the tabs -->
+    <ul class="nav nav-tabs nav-justified control-sidebar-tabs">
+        <li class="active"><a href="#control-sidebar-setting-tab" data-toggle="tab" aria-expanded="true"><i class="fa fa-wrench"></i></a></li>
+        <li><a href="#control-sidebar-home-tab" data-toggle="tab"><i class="fa fa-home"></i></a></li>
+        <li><a href="#control-sidebar-settings-tab" data-toggle="tab"><i class="fa fa-gears"></i></a></li>
+    </ul>
+    <!-- Tab panes -->
+    <div class="tab-content">
+        <!-- Home tab content -->
+        <div class="tab-pane active" id="control-sidebar-setting-tab">
+            <h4 class="control-sidebar-heading">{:__('Layout Options')}</h4>
+            <div class="form-group"><label class="control-sidebar-subheading"><input type="checkbox" data-config="multiplenav" {if $Think.config.fastadmin.multiplenav}checked{/if} class="pull-right"> {:__('Multiple Nav')}</label><p>{:__("Toggle the top menu state (multiple or single)")}</p></div>
+            <div class="form-group"><label class="control-sidebar-subheading"><input type="checkbox" data-config="multipletab" {if $Think.config.fastadmin.multipletab}checked{/if} class="pull-right"> {:__('Multiple Tab')}</label><p>{:__("Always show multiple tab when multiple nav is set")}</p></div>
+            <div class="form-group"><label class="control-sidebar-subheading"><input type="checkbox" data-layout="sidebar-collapse" class="pull-right"> {:__('Toggle Sidebar')}</label><p>{:__("Toggle the left sidebar's state (open or collapse)")}</p></div>
+            <div class="form-group"><label class="control-sidebar-subheading"><input type="checkbox" data-enable="expandOnHover" class="pull-right"> {:__('Sidebar Expand on Hover')}</label><p>{:__('Let the sidebar mini expand on hover')}</p></div>
+            <div class="form-group"><label class="control-sidebar-subheading"><input type="checkbox" data-menu="show-submenu" class="pull-right"> {:__('Show sub menu')}</label><p>{:__('Always show sub menu')}</p></div>
+            <div class="form-group"><label class="control-sidebar-subheading"><input type="checkbox" data-controlsidebar="control-sidebar-open" class="pull-right"> {:__('Toggle Right Sidebar Slide')}</label><p>{:__('Toggle between slide over content and push content effects')}</p></div>
+            <div class="form-group"><label class="control-sidebar-subheading"><input type="checkbox" data-sidebarskin="toggle" class="pull-right"> {:__('Toggle Right Sidebar Skin')}</label><p>{:__('Toggle between dark and light skins for the right sidebar')}</p></div>
+            <h4 class="control-sidebar-heading">{:__('Skins')}</h4>
+            <ul class="list-unstyled clearfix skin-list">
+                <li><a href="javascript:;" data-skin="skin-blue" class="clearfix full-opacity-hover"><div><span style="width: 20%; height: 27px; background: #4e73df;"></span><span style="width: 80%; height: 27px; background: #f4f5f7;"></span></div></a><p class="text-center no-margin">Blue</p></li>
+                <li><a href="javascript:;" data-skin="skin-black" class="clearfix full-opacity-hover"><div><span style="width: 20%; height: 27px; background: #000;"></span><span style="width: 80%; height: 27px; background: #f4f5f7;"></span></div></a><p class="text-center no-margin">Black</p></li>
+                <li><a href="javascript:;" data-skin="skin-purple" class="clearfix full-opacity-hover"><div><span style="width: 20%; height: 27px; background: #605ca8;"></span><span style="width: 80%; height: 27px; background: #f4f5f7;"></span></div></a><p class="text-center no-margin">Purple</p></li>
+                <li><a href="javascript:;" data-skin="skin-green" class="clearfix full-opacity-hover"><div><span style="width: 20%; height: 7px;" class="bg-green-active"></span><span class="bg-green" style="width: 80%; height: 7px;"></span></div><div><span style="width: 20%; height: 20px; background: #000;"></span><span style="width: 80%; height: 20px; background: #f4f5f7;"></span></div></a><p class="text-center no-margin">Green</p></li>
+                <li><a href="javascript:;" data-skin="skin-red" class="clearfix full-opacity-hover"><div><span style="width: 20%; height: 7px;" class="bg-red-active"></span><span class="bg-red" style="width: 80%; height: 7px;"></span></div><div><span style="width: 20%; height: 20px; background: #000;"></span><span style="width: 80%; height: 20px; background: #f4f5f7;"></span></div></a><p class="text-center no-margin">Red</p></li>
+                <li><a href="javascript:;" data-skin="skin-yellow" class="clearfix full-opacity-hover"><div><span style="width: 20%; height: 7px;" class="bg-yellow-active"></span><span class="bg-yellow" style="width: 80%; height: 7px;"></span></div><div><span style="width: 20%; height: 20px; background: #000;"></span><span style="width: 80%; height: 20px; background: #f4f5f7;"></span></div></a><p class="text-center no-margin">Yellow</p></li>
+
+                <li><a href="javascript:;" data-skin="skin-blue-light" class="clearfix full-opacity-hover"><div><span style="width: 100%; height: 7px; background: #4e73df;"></span></div><div><span style="width: 100%; height: 20px; background: #f9fafc;"></span></div></a><p class="text-center no-margin" style="font-size: 12px">Blue Light</p></li>
+                <li><a href="javascript:;" data-skin="skin-black-light" class="clearfix full-opacity-hover"><div><span style="width: 100%; height: 7px; background: #000;"></span></div><div><span style="width: 100%; height: 20px; background: #f9fafc;"></span></div></a><p class="text-center no-margin" style="font-size: 12px">Black Light</p></li>
+                <li><a href="javascript:;" data-skin="skin-purple-light" class="clearfix full-opacity-hover"><div><span style="width: 100%; height: 7px; background: #605ca8;"></span></div><div><span style="width: 100%; height: 20px; background: #f9fafc;"></span></div></a><p class="text-center no-margin" style="font-size: 12px">Purple Light</p></li>
+                <li><a href="javascript:;" data-skin="skin-green-light" class="clearfix full-opacity-hover"><div><span style="width: 100%; height: 7px;" class="bg-green"></span></div><div><span style="width: 100%; height: 20px; background: #f9fafc;"></span></div></a><p class="text-center no-margin" style="font-size: 12px">Green Light</p></li>
+                <li><a href="javascript:;" data-skin="skin-red-light" class="clearfix full-opacity-hover"><div><span style="width: 100%; height: 7px;" class="bg-red"></span></div><div><span style="width: 100%; height: 20px; background: #f9fafc;"></span></div></a><p class="text-center no-margin" style="font-size: 12px">Red Light</p></li>
+                <li><a href="javascript:;" data-skin="skin-yellow-light" class="clearfix full-opacity-hover"><div><span style="width: 100%; height: 7px;" class="bg-yellow"></span></div><div><span style="width: 100%; height: 20px; background: #f9fafc;"></span></div></a><p class="text-center no-margin" style="font-size: 12px">Yellow Light</p></li>
+
+                <li><a href="javascript:;" data-skin="skin-black-blue" class="clearfix full-opacity-hover"><div><span style="width: 20%; height: 27px; background: #000;"><span style="width: 100%; height: 3px; margin-top:10px; background: #4e73df;"></span></span><span style="width: 80%; height: 27px; background: #f4f5f7;"></span></div></a><p class="text-center no-margin">Black Blue</p></li>
+                <li><a href="javascript:;" data-skin="skin-black-purple" class="clearfix full-opacity-hover"><div><span style="width: 20%; height: 27px; background: #000;"><span style="width: 100%; height: 3px; margin-top:10px; background: #605ca8;"></span></span><span style="width: 80%; height: 27px; background: #f4f5f7;"></span></div></a><p class="text-center no-margin">Black Purple</p></li>
+                <li><a href="javascript:;" data-skin="skin-black-green" class="clearfix full-opacity-hover"><div><span style="width: 20%; height: 27px; background: #000;"><span style="width: 100%; height: 3px; margin-top:10px;" class="bg-green"></span></span><span style="width: 80%; height: 27px; background: #f4f5f7;"></span></div></a><p class="text-center no-margin">Black Green</p></li>
+                <li><a href="javascript:;" data-skin="skin-black-red" class="clearfix full-opacity-hover"><div><span style="width: 20%; height: 27px; background: #000;"><span style="width: 100%; height: 3px; margin-top:10px;" class="bg-red"></span></span><span style="width: 80%; height: 27px; background: #f4f5f7;"></span></div></a><p class="text-center no-margin">Black Red</p></li>
+                <li><a href="javascript:;" data-skin="skin-black-yellow" class="clearfix full-opacity-hover"><div><span style="width: 20%; height: 27px; background: #000;"><span style="width: 100%; height: 3px; margin-top:10px;" class="bg-yellow"></span></span><span style="width: 80%; height: 27px; background: #f4f5f7;"></span></div></a><p class="text-center no-margin">Black Yellow</p></li>
+                <li><a href="javascript:;" data-skin="skin-black-pink" class="clearfix full-opacity-hover"><div><span style="width: 20%; height: 27px; background: #000;"><span style="width: 100%; height: 3px; margin-top:10px; background: #f5549f;"></span></span><span style="width: 80%; height: 27px; background: #f4f5f7;"></span></div></a><p class="text-center no-margin">Black Pink</p></li>
+            </ul>
+        </div>
+        <!-- /.tab-pane -->
+        <!-- Home tab content -->
+        <div class="tab-pane" id="control-sidebar-home-tab">
+            <h5 class="control-sidebar-heading">授权类型:{$auth_type.type}</h5>
+            <h5 class="control-sidebar-heading">QQ交流群:193351399</h5>
+            <h5 class="control-sidebar-heading">仅限从平台购买用户加群</h5>
+            <h5 class="control-sidebar-heading">缓存有效期:{$auth_type.cache}</h5>
+            <h5 class="control-sidebar-heading">域名授权列表:  </h5>
+            {volist name="auth_type.authList" id="product"}    
+            <li>{$product}</li>  
+            {/volist}
+        </div>
+        <!-- /.tab-pane -->
+        <!-- Settings tab content -->
+        <div class="tab-pane" id="control-sidebar-settings-tab">
+            <input name="authid" type="hidden" id="newversionurl">
+            <h5 class="control-sidebar-heading">本地版本：{$version.code}</h5>
+            <h5 class="control-sidebar-heading" id="newversion" style="display: none;"></h5>
+            <button type="button" id="detectupdates" class="btn btn-primary btn-recharge btn-block" style="display: block;">检测更新</button>
+            <table class="tbinfo pleft layui-table">
+                <thead>
+                    <th colspan="1" id="uptitle">温馨提示：</th>
+                </thead>
+                <tr>
+                    <td colspan="2">
+                        <span class="tif s20" id="upcontent">为确保本后台能脱机工作，程序不自动进行检测更新。您可点击【检测更新】来获取最新版本</span>
+                    </td>
+                </tr>
+            </table>
+            {if $auth_type.database == 1}
+            <button type="button" id="updatedb" class="btn btn-primary btn-recharge btn-block">更新数据库</button>
+            {/if}
+            <button type="button" id="updateNow" class="btn btn-primary btn-recharge btn-block" style="display: none;">立即更新</button>
+        </div>
+        <!-- /.tab-pane -->
+    </div>
+</aside>
+<!-- /.control-sidebar -->
+<script src="../../assets/libs/jquery/dist/jquery.js"></script>
+<script type="text/javascript">
+    $('#detectupdates').on('click', function () {
+        document.getElementById("detectupdates").innerHTML = "正在检测...";
+        $.ajax({
+            url: 'index/newversion',
+            type: 'get',
+            data: {},
+            success: function (data) {
+                console.log(data);
+                if (data.code == 100) {
+                    document.getElementById("newversionurl").value = data.url;
+                    document.getElementById("upcontent").innerHTML = data.msg.replaceAll("\r", "").replaceAll("\n", "<br>");
+                    document.getElementById("uptitle").innerHTML = "发现新版本:"; //设置更新标题
+                    document.getElementById("detectupdates").style.display = "none"; //隐藏检测按钮
+                    document.getElementById("newversion").style.display = "block"; //显示最新版本号
+                    document.getElementById("updateNow").style.display = "block"; //显示更新按钮
+                    document.getElementById("newversion").innerHTML = data.old + "->" + data.new; //设置最新版本号
+                } else {
+                    document.getElementById("detectupdates").innerHTML = data.msg;
+                }
+            }
+        });
+    });
+    $('#updateNow').on('click', function () {
+        var url = window.location.href;
+        if (url.indexOf("dashboard") != -1) {
+            var newversionurl = document.getElementById("newversionurl").value;
+            layer.open({
+                type: 2,
+                title: "版本升级",
+                maxmin: true,
+                shadeClose: true,
+                area: ['25%', '50%'],
+                content: 'update/step1?zipurl=' + newversionurl,
+            });
+        }else{
+            alert("先点击左边【控制台】再进行更新！");
+        }
+    })
+    $('#updatedb').on('click', function () {
+        var url = window.location.href;
+        if (url.indexOf("dashboard") != -1) {
+            layer.open({
+                type: 2,
+                title: "数据库更新",
+                maxmin: true,
+                shadeClose: true,
+                area: ['25%', '50%'],
+                content: 'update/step2',
+            });
+        }else{
+            alert("先点击左边【控制台】再进行更新！");
+        }
+    })
+</script>

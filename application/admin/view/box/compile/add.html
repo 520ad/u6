@@ -1,0 +1,123 @@
+<form id="add-form" class="form-horizontal" role="form" data-toggle="validator" method="POST" action="">
+
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Message')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-message" class="form-control" name="row[message]" type="text" value="暂无消息">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Version')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-version" class="form-control" name="row[version]" type="text" value="1.0.0">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Package')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-package" class="form-control" name="row[package]" type="text" value="com.demo.app">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Mtj_key')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-mtj_key" class="form-control" name="row[mtj_key]" type="text" value="9eacd1d2df">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Mtj_canal')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-mtj_canal" class="form-control" name="row[mtj_canal]" type="text" value="lvdou">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Logo_image')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <div class="input-group">
+                <input id="c-logo_image" class="form-control" size="50" name="row[logo_image]" type="text">
+                <div class="input-group-addon no-border no-padding">
+                    <span><button type="button" id="faupload-logo_image" class="btn btn-danger faupload" data-input-id="c-logo_image" data-mimetype="image/gif,image/jpeg,image/png,image/jpg,image/bmp,image/webp" data-multiple="false" data-preview-id="p-logo_image"><i class="fa fa-upload"></i> {:__('Upload')}</button></span>
+                    <span><button type="button" id="fachoose-logo_image" class="btn btn-primary fachoose" data-input-id="c-logo_image" data-mimetype="image/*" data-multiple="false"><i class="fa fa-list"></i> {:__('Choose')}</button></span>
+                </div>
+                <span class="msg-box n-right" for="c-logo_image"></span>
+            </div>
+            <ul class="row list-inline faupload-preview" id="p-logo_image"></ul>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Start_image')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <div class="input-group">
+                <input id="c-start_image" class="form-control" size="50" name="row[start_image]" type="text">
+                <div class="input-group-addon no-border no-padding">
+                    <span><button type="button" id="faupload-start_image" class="btn btn-danger faupload" data-input-id="c-start_image" data-mimetype="image/gif,image/jpeg,image/png,image/jpg,image/bmp,image/webp" data-multiple="false" data-preview-id="p-start_image"><i class="fa fa-upload"></i> {:__('Upload')}</button></span>
+                    <span><button type="button" id="fachoose-start_image" class="btn btn-primary fachoose" data-input-id="c-start_image" data-mimetype="image/*" data-multiple="false"><i class="fa fa-list"></i> {:__('Choose')}</button></span>
+                </div>
+                <span class="msg-box n-right" for="c-start_image"></span>
+            </div>
+            <ul class="row list-inline faupload-preview" id="p-start_image"></ul>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Store_file')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <div class="input-group">
+                <input id="c-store_file" class="form-control" size="50" name="row[store_file]" type="text" value="default.jks">
+                <div class="input-group-addon no-border no-padding">
+                    <span><button type="button" id="faupload-store_file" class="btn btn-danger faupload" data-input-id="c-store_file" data-multiple="false" data-preview-id="p-store_file"><i class="fa fa-upload"></i> {:__('Upload')}</button></span>
+                    <span><button type="button" id="fachoose-store_file" class="btn btn-primary fachoose" data-input-id="c-store_file" data-multiple="false"><i class="fa fa-list"></i> {:__('Choose')}</button></span>
+                </div>
+                <span class="msg-box n-right" for="c-store_file"></span>
+            </div>
+            <ul class="row list-inline faupload-preview" id="p-store_file"></ul>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Store_password')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-store_password" class="form-control" name="row[store_password]" type="text" value="default">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Key_alias')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-key_alias" class="form-control" name="row[key_alias]" type="text" value="default">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Key_password')}:</label>
+        <div class="col-xs-12 col-sm-8">
+            <input id="c-key_password" class="form-control" name="row[key_password]" type="text" value="default">
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('App_list')}:</label>
+        <div class="col-xs-12 col-sm-8">
+                        
+            <select  id="c-app_list" data-rule="required" class="form-control selectpicker" name="row[app_list]">
+                {foreach name="appListList" item="vo"}
+                    <option value="{$key}" {in name="key" value="1"}selected{/in}>{$vo}</option>
+                {/foreach}
+            </select>
+
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="control-label col-xs-12 col-sm-2">{:__('Build_type')}:</label>
+        <div class="col-xs-12 col-sm-8">
+                        
+            <select  id="c-build_type" data-rule="required" class="form-control selectpicker" name="row[build_type]">
+                {foreach name="buildTypeList" item="vo"}
+                    <option value="{$key}" {in name="key" value="1"}selected{/in}>{$vo}</option>
+                {/foreach}
+            </select>
+
+        </div>
+    </div>
+    <div class="form-group layer-footer">
+        <label class="control-label col-xs-12 col-sm-2"></label>
+        <div class="col-xs-12 col-sm-8">
+            <button type="submit" class="btn btn-primary btn-embossed disabled">{:__('OK')}</button>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>视频分享页-{$name}</title>
+  <script src="__CDN__/assets/js/jquery.js"></script>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #f0f0f0;
+    }
+
+    .video-container {
+      text-align: center;
+      max-width: 80%;
+      background-color: #fff;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    h2 {
+      margin-top: 10px;
+    }
+
+    .play-button {
+      margin-top: 20px;
+      padding: 10px 20px;
+      border: none;
+      background-color: #ff0000;
+      color: #fff;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    .wxtip-icon {
+      width: 4rem;
+      height: 5rem;
+      margin-right: .1rem;
+      background: url(favicon.png) no-repeat;
+      background-size: 3.5rem;
+      display: block;
+      position: absolute;
+      right: 1rem;
+      top: 1rem;
+    }
+  </style>
+</head>
+
+<!-- 演示在html中拉起应用。可集成到各大影视平台拉起APP播放 -->
+
+<body>
+  <div class="video-container">
+    <img src="{$pics}" alt="{$name}">
+    <h2>{$name}</h2>
+    <a href="{$url}" class="play-button" id="button">{$button}</a>
+    <span class="wxtip-icon" id="icon"></span>
+    <span class="wxtip-txt" id="txt">
+      <span><i>1</i>点击右上角···</span>
+      <span><i>2</i>选择在浏览器中打开</span>
+    </span>
+  </div>
+  <script>
+    function ready(fn) {
+      if (document.readyState != "loading") {
+        fn();
+      } else {
+        document.addEventListener("DOMContentLoaded", fn);
+      }
+    }
+
+    ready(function () {
+      document.getElementById("txt").style.display = "none";
+      document.getElementById("icon").style.display = "none";
+      document.getElementById("button").style.display = "block";
+
+      if (is_weixn_qq()) {
+        document.getElementById("txt").style.display = "block";
+        document.getElementById("icon").style.display = "block";
+        document.getElementById("button").style.display = "none";
+      }
+    });
+
+    function is_weixn_qq() {
+      var ua = navigator.userAgent;
+      var isWeixin = !!/MicroMessenger/i.test(ua);
+      var isQQ = !!/QQ\//i.test(ua);
+      if (isWeixin || isQQ) {
+        return true;
+      }
+      return false;
+    }
+  </script>
+</body>
+
+</html>

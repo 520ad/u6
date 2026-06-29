@@ -1,0 +1,28 @@
+<div id="content-container" class="container">
+    <div class="row">
+        <div class="col-md-3">
+            {include file="common/sidenav" /}
+        </div>
+        <div class="col-md-9">
+            <div class="panel panel-default panel-recharge">
+                <div class="panel-body">
+                    <h2 class="page-header">{:__('加入代理')}</h2>
+                    <div class="alert alert-info-light">
+                        加入代理后提卡价格为正常售价的{$site.agency_discount}%<br>
+                        您可以提卡后进行推广销售赚取其中差价
+                    </div>
+                    <div class="clearfix"></div>
+                    <form action="{:url('tical/buydaili')}" method="post">
+                        <input type="hidden" name="1">
+                        <h3>代理价格：{$site.agency_price}</h3>
+                         <div class="row row-recharge" style="margin:20px -15px 0 -15px;">
+                            <div class="col-xs-6 col-sm-4 col-md-4 col-lg-2">
+                                <input type="submit" class="btn btn-success btn-recharge btn-block" value="{:__('立即购买')}"/>
+                            </div>
+                        </div>
+                    </form> 
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

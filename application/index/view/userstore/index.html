@@ -1,0 +1,46 @@
+<div id="content-container" class="container">
+    <div class="row">
+        <div class="col-md-3">
+            {include file="common/sidenav" /}
+        </div>
+        <div class="col-md-9">
+            <div class="panel panel-default panel-recharge">
+                <div class="panel-body">
+                    <h2 class="page-header">{:__('我的仓库')} <a href="{:url('add')}" class="btn btn-primary btn-recharge pull-right">{:__('添加仓库')}</a></h2>
+                </div>
+                <div class="panel-body p-0">
+                    <div class="alert alert-danger-light">
+                        您提交的仓库仅自己可用<br>
+                        如果您添加某个仓库后客户端异常请自行删除<br>
+                    </div>
+                    <div class="">
+                        <table class="table table-striped">
+                            <thead>
+                                <tr>
+                                    <th class="text-center" style="width: 20%;">名称</th>
+                                    <th class="text-center" style="width: 40%;">链接</th>
+                                    <th class="text-center" style="width: 20%;">状态</th>
+                                    <th class="text-center" style="width: 20%;">操作</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {volist name="list" id="vo"}
+                                <tr>
+                                    <td class="text-center">{$vo.name}</td>
+                                    <td class="text-center">{$vo.url}</td>
+                                    <td class="text-center">{$vo.status === "normal" ? "正常" : "停用" }</td>
+                                    <td class="text-center">
+                                        <a href="edit?id={$vo.id}&t=stop" class="btn btn-warning btn-xs btn-combine" data-orderid="">{$vo.status === "normal" ? "停用" : "启用" }</a>
+                                        <a href="edit?id={$vo.id}" class="btn btn-info btn-xs btn-combine" data-orderid="">编辑</a>
+                                        <a href="delete?id={$vo.id}" class="btn btn-success btn-xs btn-combine" data-orderid="">删除</a>
+                                    </td>
+                                </tr>
+                                {/volist}
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
