@@ -1,0 +1,21 @@
+<link href="/payPage/pay.css?v=3" rel="stylesheet" media="screen">
+<div class="mod-ct">
+    <div class="amount tip" id="timeOut" style="font-size: 20px;color: red;display: none;">
+        <p>订单已过期，请重新发起支付</p>
+    </div>
+    <div id="orderbody">
+        <div class="tip">
+            <div style="position: relative;display: inline-block;">
+                <img src="/qrcode/build?text={$orderData.code_url}" width="210" height="210" style="display: block;">
+            </div>
+            <div class="hidden" data-text="{$orderData.code_url}"></div>
+            <p>订单编号：<span id="orderId">{$orderData.orderid}</span></p>
+            <p>订单价格：￥{$orderData.amount} 元</p>
+            <p>订单标题：{$orderData.title}</p>
+            <strong id="hour_show" style="color: red;">0时</strong>
+            <strong id="minute_show" style="color: red;">0分</strong>
+            <strong id="second_show" style="color: red;">0秒</strong>
+        </div>
+    </div>
+</div>
+<script src="/payPage/pay.js?v=4"></script>
