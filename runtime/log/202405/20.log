@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2024-05-20T21:10:44+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/update/app?app_id=10002&version=20240516&apk_mark=lvdou-box-ui-7
+[运行时间：0.067429s] [吞吐率：14.83req/s] [内存消耗：4,072.71kb] [文件加载：95]
+[ error ] [8]未定义变量: updateversion[/www/wwwroot/app.lvdoui.net/application/common/model/Version.php:66]

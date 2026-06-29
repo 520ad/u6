@@ -1,0 +1,16 @@
+---------------------------------------------------------------
+[ 2024-06-13T16:47:51+08:00 ] 112.51.201.162 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：1.286350s] [吞吐率：0.78req/s] [内存消耗：4,665.04kb] [文件加载：98]
+[ error ] [8]未定义变量: flavorsList[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:88]
+---------------------------------------------------------------
+[ 2024-06-13T16:48:50+08:00 ] 112.51.201.162 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.351932s] [吞吐率：2.84req/s] [内存消耗：4,665.13kb] [文件加载：98]
+[ error ] [8]未定义变量: flavorsList[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:88]
+---------------------------------------------------------------
+[ 2024-06-13T17:14:51+08:00 ] 112.51.201.162 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10002&dialog=1
+[运行时间：0.345437s] [吞吐率：2.89req/s] [内存消耗：4,495.73kb] [文件加载：96]
+[ error ] [8]未定义数组索引: flavors[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:87]
+---------------------------------------------------------------
+[ 2024-06-13T17:17:53+08:00 ] 112.51.201.162 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10002&dialog=1
+[运行时间：0.402223s] [吞吐率：2.49req/s] [内存消耗：4,495.73kb] [文件加载：96]
+[ error ] [8]未定义数组索引: flavors[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:87]

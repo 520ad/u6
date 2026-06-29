@@ -1,0 +1,14 @@
+---------------------------------------------------------------
+[ 2024-06-08T11:39:56+08:00 ] 112.51.201.76 GET app.lvdoui.net/api/main/init?time=time&token=0000&app_id=10000&apk_mark=mobile-box&version=2.3.7
+[运行时间：0.235807s] [吞吐率：4.24req/s] [内存消耗：4,318.16kb] [文件加载：102]
+[ error ] [1]Uncaught think\exception\ErrorException: Array to string conversion in /www/wwwroot/app.lvdoui.net/application/common/controller/Test1.php:20
+Stack trace:
+#0 /www/wwwroot/app.lvdoui.net/application/common/controller/Test1.php(20): think\Error::appError()
+#1 /www/wwwroot/app.lvdoui.net/application/common/controller/Test.php(23): app\common\controller\Test1->checkMark()
+#2 /www/wwwroot/app.lvdoui.net/application/common/controller/Demo.php(37): app\common\controller\Test->encrypted()
+#3 /www/wwwroot/app.lvdoui.net/application/common/controller/Apitest.php(21): app\common\controller\Demo->result_encrypted()
+#4 /www/wwwroot/app.lvdoui.net/application/api/controller/Main.php(76): app\common\controller\Apitest->success_encrypted()
+#5 [internal function]: app\api\controller\Main->init()
+#6 /www/wwwroot/app.lvdoui.net/thinkphp/library/think/App.php(343): ReflectionMethod->invokeArgs()
+#7 /www/wwwroot/app.lvdoui.net/thinkphp/library/think/App.php(611): think\App::invokeMethod()
+#8 /www/wwwroot/app.lvdoui.net/thinkphp/l[/www/wwwroot/app.lvdoui.net/application/common/controller/Test1.php:20]

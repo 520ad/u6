@@ -1,0 +1,12 @@
+---------------------------------------------------------------
+[ 2024-05-04T08:38:03+08:00 ] 112.51.202.234 GET app.lvdoui.net/api/main/init?app_id=10001&sign=f3bbd1ebd554d8ea24e64eb128655d2a881ee7a7df1fb537ac748513b5f16d6e&time=1714783084&version=2.3.3240503&apk_mark=lvdou-box-ui-6
+[运行时间：0.093240s] [吞吐率：10.73req/s] [内存消耗：2,394.98kb] [文件加载：70]
+[ error ] [0]语法解析错误: syntax error, unexpected ')'[/www/wwwroot/app.lvdoui.net/application/api/controller/Main.php:68]
+---------------------------------------------------------------
+[ 2024-05-04T08:38:08+08:00 ] 112.51.202.234 GET app.lvdoui.net/api/main/init?app_id=10001&sign=f3bbd1ebd554d8ea24e64eb128655d2a881ee7a7df1fb537ac748513b5f16d6e&time=1714783089&version=2.3.3240503&apk_mark=lvdou-box-ui-6
+[运行时间：0.039693s] [吞吐率：25.19req/s] [内存消耗：2,394.99kb] [文件加载：70]
+[ error ] [0]语法解析错误: syntax error, unexpected ')'[/www/wwwroot/app.lvdoui.net/application/api/controller/Main.php:68]
+---------------------------------------------------------------
+[ 2024-05-04T08:38:14+08:00 ] 112.51.202.234 GET app.lvdoui.net/api/main/init?app_id=10001&sign=f3bbd1ebd554d8ea24e64eb128655d2a881ee7a7df1fb537ac748513b5f16d6e&time=1714783094&version=2.3.3240503&apk_mark=lvdou-box-ui-6
+[运行时间：0.040329s] [吞吐率：24.80req/s] [内存消耗：2,394.99kb] [文件加载：70]
+[ error ] [0]语法解析错误: syntax error, unexpected ')'[/www/wwwroot/app.lvdoui.net/application/api/controller/Main.php:68]

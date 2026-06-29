@@ -1,0 +1,186 @@
+---------------------------------------------------------------
+[ 2024-05-07T00:09:23+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10000&dialog=1
+[运行时间：0.193082s] [吞吐率：5.18req/s] [内存消耗：4,497.80kb] [文件加载：96]
+[ error ] [8]Array to string conversion[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:76]
+---------------------------------------------------------------
+[ 2024-05-07T07:51:15+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10000&dialog=1
+[运行时间：0.317334s] [吞吐率：3.15req/s] [内存消耗：4,366.21kb] [文件加载：90]
+[ error ] [0]致命错误: Call to undefined method app\admin\controller\box\Compile::getBuildTypeList()[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:30]
+---------------------------------------------------------------
+[ 2024-05-07T07:51:19+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10000&dialog=1
+[运行时间：0.138619s] [吞吐率：7.21req/s] [内存消耗：4,366.21kb] [文件加载：90]
+[ error ] [0]致命错误: Call to undefined method app\admin\controller\box\Compile::getBuildTypeList()[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:30]
+---------------------------------------------------------------
+[ 2024-05-07T08:03:24+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10000&dialog=1
+[运行时间：0.125587s] [吞吐率：7.96req/s] [内存消耗：4,368.59kb] [文件加载：91]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:100]
+---------------------------------------------------------------
+[ 2024-05-07T08:21:36+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10000&dialog=1
+[运行时间：0.136341s] [吞吐率：7.33req/s] [内存消耗：4,475.16kb] [文件加载：95]
+[ error ] [8]Array to string conversion[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:93]
+---------------------------------------------------------------
+[ 2024-05-07T08:22:09+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10000&dialog=1
+[运行时间：0.135599s] [吞吐率：7.37req/s] [内存消耗：4,475.16kb] [文件加载：95]
+[ error ] [8]Array to string conversion[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:93]
+---------------------------------------------------------------
+[ 2024-05-07T08:23:45+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10000&dialog=1
+[运行时间：0.178642s] [吞吐率：5.60req/s] [内存消耗：4,488.16kb] [文件加载：93]
+[ error ] [1]Uncaught think\exception\ErrorException: Array to string conversion in /www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:70
+Stack trace:
+#0 /www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php(70): think\Error::appError()
+#1 [internal function]: app\admin\controller\box\Compile->edit()
+#2 /www/wwwroot/app.lvdoui.net/thinkphp/library/think/App.php(343): ReflectionMethod->invokeArgs()
+#3 /www/wwwroot/app.lvdoui.net/thinkphp/library/think/App.php(611): think\App::invokeMethod()
+#4 /www/wwwroot/app.lvdoui.net/thinkphp/library/think/App.php(456): think\App::module()
+#5 /www/wwwroot/app.lvdoui.net/thinkphp/library/think/App.php(139): think\App::exec()
+#6 /www/wwwroot/app.lvdoui.net/public/LNVBMtkwfx.php(37): think\App::run()
+#7 {main}
+  thrown[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:70]
+---------------------------------------------------------------
+[ 2024-05-07T08:26:08+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.146524s] [吞吐率：6.82req/s] [内存消耗：4,475.51kb] [文件加载：95]
+[ error ] [2]Illegal string offset 'id'[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:95]
+---------------------------------------------------------------
+[ 2024-05-07T08:38:30+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.160695s] [吞吐率：6.22req/s] [内存消耗：4,520.29kb] [文件加载：95]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:99]
+---------------------------------------------------------------
+[ 2024-05-07T09:01:44+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.132180s] [吞吐率：7.57req/s] [内存消耗：4,426.02kb] [文件加载：93]
+[ error ] [8]Trying to access array offset on value of type bool[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:55]
+---------------------------------------------------------------
+[ 2024-05-07T09:37:26+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.180850s] [吞吐率：5.53req/s] [内存消耗：4,426.00kb] [文件加载：93]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:54]
+---------------------------------------------------------------
+[ 2024-05-07T09:37:32+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.121600s] [吞吐率：8.22req/s] [内存消耗：4,426.00kb] [文件加载：93]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:54]
+---------------------------------------------------------------
+[ 2024-05-07T09:37:49+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.123441s] [吞吐率：8.10req/s] [内存消耗：4,426.04kb] [文件加载：93]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:54]
+---------------------------------------------------------------
+[ 2024-05-07T09:38:01+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.181124s] [吞吐率：5.52req/s] [内存消耗：4,426.04kb] [文件加载：93]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:54]
+---------------------------------------------------------------
+[ 2024-05-07T09:38:07+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.121710s] [吞吐率：8.22req/s] [内存消耗：4,426.04kb] [文件加载：93]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:54]
+---------------------------------------------------------------
+[ 2024-05-07T09:38:26+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.126569s] [吞吐率：7.90req/s] [内存消耗：4,426.06kb] [文件加载：93]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:54]
+---------------------------------------------------------------
+[ 2024-05-07T09:46:31+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.217485s] [吞吐率：4.60req/s] [内存消耗：4,476.87kb] [文件加载：95]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:100]
+---------------------------------------------------------------
+[ 2024-05-07T09:59:09+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.070753s] [吞吐率：14.13req/s] [内存消耗：4,394.45kb] [文件加载：92]
+[ error ] [8]未定义数组索引: appListList[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:53]
+---------------------------------------------------------------
+[ 2024-05-07T09:59:27+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.071005s] [吞吐率：14.08req/s] [内存消耗：4,394.45kb] [文件加载：92]
+[ error ] [8]未定义数组索引: appListList[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:53]
+---------------------------------------------------------------
+[ 2024-05-07T10:00:13+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.072630s] [吞吐率：13.77req/s] [内存消耗：4,394.45kb] [文件加载：92]
+[ error ] [8]未定义数组索引: appListList[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:53]
+---------------------------------------------------------------
+[ 2024-05-07T10:00:24+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.072955s] [吞吐率：13.71req/s] [内存消耗：4,394.45kb] [文件加载：92]
+[ error ] [8]未定义数组索引: appListList[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:53]
+---------------------------------------------------------------
+[ 2024-05-07T10:00:53+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.072504s] [吞吐率：13.79req/s] [内存消耗：4,394.45kb] [文件加载：92]
+[ error ] [8]未定义数组索引: appListList[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:53]
+---------------------------------------------------------------
+[ 2024-05-07T10:09:05+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.071633s] [吞吐率：13.96req/s] [内存消耗：4,394.45kb] [文件加载：92]
+[ error ] [8]未定义数组索引: product_name[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:53]
+---------------------------------------------------------------
+[ 2024-05-07T10:09:09+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.071576s] [吞吐率：13.97req/s] [内存消耗：4,394.45kb] [文件加载：92]
+[ error ] [8]未定义数组索引: product_name[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:53]
+---------------------------------------------------------------
+[ 2024-05-07T10:09:12+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.071521s] [吞吐率：13.98req/s] [内存消耗：4,394.45kb] [文件加载：92]
+[ error ] [8]未定义数组索引: product_name[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:53]
+---------------------------------------------------------------
+[ 2024-05-07T10:09:29+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.071409s] [吞吐率：14.00req/s] [内存消耗：4,394.45kb] [文件加载：92]
+[ error ] [8]未定义数组索引: product_name[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:53]
+---------------------------------------------------------------
+[ 2024-05-07T10:09:37+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.071409s] [吞吐率：14.00req/s] [内存消耗：4,394.45kb] [文件加载：92]
+[ error ] [8]未定义数组索引: product_name[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:53]
+---------------------------------------------------------------
+[ 2024-05-07T10:09:39+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.071346s] [吞吐率：14.02req/s] [内存消耗：4,394.45kb] [文件加载：92]
+[ error ] [8]未定义数组索引: product_name[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:53]
+---------------------------------------------------------------
+[ 2024-05-07T10:11:00+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.071841s] [吞吐率：13.92req/s] [内存消耗：4,394.45kb] [文件加载：92]
+[ error ] [8]未定义数组索引: product_name[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:53]
+---------------------------------------------------------------
+[ 2024-05-07T10:11:08+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.071854s] [吞吐率：13.92req/s] [内存消耗：4,394.45kb] [文件加载：92]
+[ error ] [8]未定义数组索引: product_name[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:53]
+---------------------------------------------------------------
+[ 2024-05-07T10:14:27+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.072736s] [吞吐率：13.75req/s] [内存消耗：4,394.45kb] [文件加载：92]
+[ error ] [8]未定义数组索引: product_name[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:53]
+---------------------------------------------------------------
+[ 2024-05-07T10:14:41+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.071627s] [吞吐率：13.96req/s] [内存消耗：4,394.45kb] [文件加载：92]
+[ error ] [8]未定义数组索引: product_name[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:53]
+---------------------------------------------------------------
+[ 2024-05-07T10:15:22+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.071712s] [吞吐率：13.94req/s] [内存消耗：4,394.45kb] [文件加载：92]
+[ error ] [8]未定义数组索引: product_name[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:53]
+---------------------------------------------------------------
+[ 2024-05-07T10:15:48+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.072890s] [吞吐率：13.72req/s] [内存消耗：4,394.45kb] [文件加载：92]
+[ error ] [8]未定义数组索引: product_name[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:53]
+---------------------------------------------------------------
+[ 2024-05-07T20:49:10+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.195478s] [吞吐率：5.12req/s] [内存消耗：4,426.09kb] [文件加载：93]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:67]
+---------------------------------------------------------------
+[ 2024-05-07T20:49:48+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.173043s] [吞吐率：5.78req/s] [内存消耗：4,426.09kb] [文件加载：93]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:67]
+---------------------------------------------------------------
+[ 2024-05-07T20:50:10+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.140387s] [吞吐率：7.12req/s] [内存消耗：4,426.09kb] [文件加载：93]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:67]
+---------------------------------------------------------------
+[ 2024-05-07T21:00:51+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10001&dialog=1
+[运行时间：0.133550s] [吞吐率：7.49req/s] [内存消耗：4,425.05kb] [文件加载：93]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:67]
+---------------------------------------------------------------
+[ 2024-05-07T21:35:34+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.176217s] [吞吐率：5.67req/s] [内存消耗：4,426.05kb] [文件加载：93]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:67]
+---------------------------------------------------------------
+[ 2024-05-07T21:36:29+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.169685s] [吞吐率：5.89req/s] [内存消耗：4,426.05kb] [文件加载：93]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:67]
+---------------------------------------------------------------
+[ 2024-05-07T21:57:18+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.139058s] [吞吐率：7.19req/s] [内存消耗：4,426.05kb] [文件加载：93]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:67]
+---------------------------------------------------------------
+[ 2024-05-07T21:58:19+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.135844s] [吞吐率：7.36req/s] [内存消耗：4,426.05kb] [文件加载：93]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:67]
+---------------------------------------------------------------
+[ 2024-05-07T21:58:41+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.163623s] [吞吐率：6.11req/s] [内存消耗：4,426.05kb] [文件加载：93]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:67]
+---------------------------------------------------------------
+[ 2024-05-07T22:13:25+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.138797s] [吞吐率：7.20req/s] [内存消耗：4,426.05kb] [文件加载：93]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:67]

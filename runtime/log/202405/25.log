@@ -1,0 +1,27 @@
+---------------------------------------------------------------
+[ 2024-05-25T10:56:24+08:00 ] 112.51.201.76 GET app.lvdoui.net/api/Vod?name=%E6%88%98%E7%8B%BC
+[运行时间：1.410644s] [吞吐率：0.71req/s] [内存消耗：4,062.34kb] [文件加载：95]
+[ error ] [8]未定义数组索引: vod_blurb[/www/wwwroot/app.lvdoui.net/application/api/controller/Vod.php:72]
+---------------------------------------------------------------
+[ 2024-05-25T10:56:40+08:00 ] 112.51.201.76 GET app.lvdoui.net/api/Vod?name=%E6%88%98%E7%8B%BC
+[运行时间：1.551070s] [吞吐率：0.64req/s] [内存消耗：4,115.59kb] [文件加载：95]
+[ error ] [1]Uncaught think\exception\ErrorException: Array to string conversion in /www/wwwroot/app.lvdoui.net/application/api/controller/Vod.php:72
+Stack trace:
+#0 /www/wwwroot/app.lvdoui.net/application/api/controller/Vod.php(72): think\Error::appError()
+#1 [internal function]: app\api\controller\Vod->index()
+#2 /www/wwwroot/app.lvdoui.net/thinkphp/library/think/App.php(343): ReflectionMethod->invokeArgs()
+#3 /www/wwwroot/app.lvdoui.net/thinkphp/library/think/App.php(611): think\App::invokeMethod()
+#4 /www/wwwroot/app.lvdoui.net/thinkphp/library/think/App.php(456): think\App::module()
+#5 /www/wwwroot/app.lvdoui.net/thinkphp/library/think/App.php(139): think\App::exec()
+#6 /www/wwwroot/app.lvdoui.net/thinkphp/start.php(19): think\App::run()
+#7 /www/wwwroot/app.lvdoui.net/public/index.php(23): require('/www/wwwroot/ap...')
+#8 {main}
+  thrown[/www/wwwroot/app.lvdoui.net/application/api/controller/Vod.php:72]
+---------------------------------------------------------------
+[ 2024-05-25T10:56:50+08:00 ] 112.51.201.76 GET app.lvdoui.net/api/Vod?name=%E6%88%98%E7%8B%BC
+[运行时间：1.484523s] [吞吐率：0.67req/s] [内存消耗：4,062.31kb] [文件加载：95]
+[ error ] [2]Illegal string offset 'code'[/www/wwwroot/app.lvdoui.net/application/api/controller/Vod.php:68]
+---------------------------------------------------------------
+[ 2024-05-25T10:57:38+08:00 ] 112.51.201.76 GET app.lvdoui.net/api/Vod?name=%E6%88%98%E7%8B%BC
+[运行时间：1.606098s] [吞吐率：0.62req/s] [内存消耗：4,062.35kb] [文件加载：95]
+[ error ] [8]未定义数组索引: vod_blurb[/www/wwwroot/app.lvdoui.net/application/api/controller/Vod.php:72]

@@ -1,0 +1,208 @@
+---------------------------------------------------------------
+[ 2024-05-06T16:17:05+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/index?id=10002&dialog=1
+[运行时间：0.074607s] [吞吐率：13.40req/s] [内存消耗：4,451.00kb] [文件加载：91]
+[ error ] [0]模板文件不存在:/www/wwwroot/app.lvdoui.net/public/../application/admin/view/box/compile/index.html[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/view/driver/Think.php:82]
+---------------------------------------------------------------
+[ 2024-05-06T16:17:27+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/index?id=10002&dialog=1
+[运行时间：0.108632s] [吞吐率：9.21req/s] [内存消耗：4,615.23kb] [文件加载：95]
+[ error ] [8]未定义变量: row[/www/wwwroot/app.lvdoui.net/runtime/temp/d7cae7be9da793fb06b5ca0e4b8f905e.php:120]
+---------------------------------------------------------------
+[ 2024-05-06T16:47:37+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/app/compile?data=[object%20Object]&dialog=1
+[运行时间：0.079675s] [吞吐率：12.55req/s] [内存消耗：4,454.54kb] [文件加载：92]
+[ error ] [0]模板文件不存在:/www/wwwroot/app.lvdoui.net/public/../application/admin/view/box/app/compile.html[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/view/driver/Think.php:82]
+---------------------------------------------------------------
+[ 2024-05-06T16:50:09+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/app/compile?data=[object%20Object]&dialog=1
+[运行时间：0.084775s] [吞吐率：11.80req/s] [内存消耗：4,633.93kb] [文件加载：96]
+[ error ] [8]未定义变量: buildTypeList[/www/wwwroot/app.lvdoui.net/runtime/temp/2a7109539c13c3a56fd4e847c60201d5.php:181]
+---------------------------------------------------------------
+[ 2024-05-06T16:55:33+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/app/compile?data=[object%20Object]&dialog=1
+[运行时间：0.080746s] [吞吐率：12.38req/s] [内存消耗：4,459.75kb] [文件加载：93]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/App.php:57]
+---------------------------------------------------------------
+[ 2024-05-06T16:56:36+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/app/compile?data=[object%20Object]&dialog=1
+[运行时间：0.077965s] [吞吐率：12.83req/s] [内存消耗：4,449.84kb] [文件加载：94]
+[ error ] [8]未定义数组索引: group_id[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/App.php:61]
+---------------------------------------------------------------
+[ 2024-05-06T17:00:39+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/app/compile?data=[object%20Object]&dialog=1
+[运行时间：0.072103s] [吞吐率：13.87req/s] [内存消耗：4,459.74kb] [文件加载：93]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/App.php:57]
+---------------------------------------------------------------
+[ 2024-05-06T17:01:35+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/app/compile?data=[object%20Object]&dialog=1
+[运行时间：0.071766s] [吞吐率：13.93req/s] [内存消耗：4,459.77kb] [文件加载：93]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/App.php:57]
+---------------------------------------------------------------
+[ 2024-05-06T17:08:09+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/app/compile?[object%20Object]&dialog=1
+[运行时间：0.075246s] [吞吐率：13.29req/s] [内存消耗：4,459.71kb] [文件加载：93]
+[ error ] [2]json_decode() expects parameter 1 to be string, array given[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/App.php:57]
+---------------------------------------------------------------
+[ 2024-05-06T17:08:36+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/app/compile?{&dialog=1
+[运行时间：0.070951s] [吞吐率：14.09req/s] [内存消耗：4,459.66kb] [文件加载：93]
+[ error ] [2]json_decode() expects parameter 1 to be string, array given[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/App.php:57]
+---------------------------------------------------------------
+[ 2024-05-06T19:12:05+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.079439s] [吞吐率：12.59req/s] [内存消耗：4,581.88kb] [文件加载：95]
+[ error ] [8]未定义变量: row[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:184]
+---------------------------------------------------------------
+[ 2024-05-06T19:17:29+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.071803s] [吞吐率：13.93req/s] [内存消耗：4,429.90kb] [文件加载：94]
+[ error ] [8]未定义数组下标: 1[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/db/Builder.php:323]
+---------------------------------------------------------------
+[ 2024-05-06T19:19:03+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.131430s] [吞吐率：7.61req/s] [内存消耗：4,428.94kb] [文件加载：94]
+[ error ] [8]未定义数组下标: 1[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/db/Builder.php:323]
+---------------------------------------------------------------
+[ 2024-05-06T19:21:08+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.071039s] [吞吐率：14.08req/s] [内存消耗：4,450.97kb] [文件加载：93]
+[ error ] [0]method not exist:think\db\Query->final[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/db/Query.php:103]
+---------------------------------------------------------------
+[ 2024-05-06T19:23:44+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.074344s] [吞吐率：13.45req/s] [内存消耗：4,445.91kb] [文件加载：95]
+[ error ] [8]未定义数组索引: build_type[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:184]
+---------------------------------------------------------------
+[ 2024-05-06T19:24:05+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.077835s] [吞吐率：12.85req/s] [内存消耗：4,607.49kb] [文件加载：97]
+[ error ] [8]未定义数组索引: build_type[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:184]
+---------------------------------------------------------------
+[ 2024-05-06T19:25:36+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.071189s] [吞吐率：14.05req/s] [内存消耗：4,449.46kb] [文件加载：93]
+[ error ] [0]method not exist:think\db\Query->final[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/db/Query.php:103]
+---------------------------------------------------------------
+[ 2024-05-06T19:26:24+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.077020s] [吞吐率：12.98req/s] [内存消耗：4,428.57kb] [文件加载：94]
+[ error ] [8]未定义数组下标: 1[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/db/Builder.php:323]
+---------------------------------------------------------------
+[ 2024-05-06T19:26:42+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.078238s] [吞吐率：12.78req/s] [内存消耗：4,603.74kb] [文件加载：97]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:184]
+---------------------------------------------------------------
+[ 2024-05-06T19:28:10+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.072098s] [吞吐率：13.87req/s] [内存消耗：4,428.63kb] [文件加载：94]
+[ error ] [8]未定义数组下标: 1[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/db/Builder.php:323]
+---------------------------------------------------------------
+[ 2024-05-06T19:28:37+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.072582s] [吞吐率：13.78req/s] [内存消耗：4,430.18kb] [文件加载：94]
+[ error ] [8]未定义数组索引: createtime[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:39]
+---------------------------------------------------------------
+[ 2024-05-06T19:30:30+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.104158s] [吞吐率：9.60req/s] [内存消耗：4,428.88kb] [文件加载：94]
+[ error ] [8]未定义数组下标: 1[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/db/Builder.php:323]
+---------------------------------------------------------------
+[ 2024-05-06T19:31:46+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.070606s] [吞吐率：14.16req/s] [内存消耗：4,428.63kb] [文件加载：94]
+[ error ] [8]未定义数组下标: 1[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/db/Builder.php:323]
+---------------------------------------------------------------
+[ 2024-05-06T19:33:59+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.075770s] [吞吐率：13.20req/s] [内存消耗：4,428.06kb] [文件加载：93]
+[ error ] [0]致命错误: Call to a member function get() on array[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:38]
+---------------------------------------------------------------
+[ 2024-05-06T19:34:11+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.073810s] [吞吐率：13.55req/s] [内存消耗：4,428.06kb] [文件加载：93]
+[ error ] [0]致命错误: Call to a member function get() on array[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:38]
+---------------------------------------------------------------
+[ 2024-05-06T19:36:11+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.073060s] [吞吐率：13.69req/s] [内存消耗：4,428.63kb] [文件加载：94]
+[ error ] [8]未定义数组下标: 1[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/db/Builder.php:323]
+---------------------------------------------------------------
+[ 2024-05-06T19:37:04+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.087828s] [吞吐率：11.39req/s] [内存消耗：4,428.63kb] [文件加载：94]
+[ error ] [8]未定义数组下标: 1[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/db/Builder.php:323]
+---------------------------------------------------------------
+[ 2024-05-06T19:55:30+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.108701s] [吞吐率：9.20req/s] [内存消耗：4,593.86kb] [文件加载：95]
+[ error ] [0]类的属性不存在:app\common\model\box\App->build_type[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/Model.php:626]
+---------------------------------------------------------------
+[ 2024-05-06T19:56:17+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.075265s] [吞吐率：13.29req/s] [内存消耗：4,443.11kb] [文件加载：93]
+[ error ] [0]类的属性不存在:app\common\model\box\App->build_type[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/Model.php:626]
+---------------------------------------------------------------
+[ 2024-05-06T19:56:28+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.078690s] [吞吐率：12.71req/s] [内存消耗：4,445.70kb] [文件加载：95]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:160]
+---------------------------------------------------------------
+[ 2024-05-06T19:57:30+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.074125s] [吞吐率：13.49req/s] [内存消耗：4,443.11kb] [文件加载：93]
+[ error ] [0]类的属性不存在:app\common\model\box\App->build_type[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/Model.php:626]
+---------------------------------------------------------------
+[ 2024-05-06T20:21:16+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.070749s] [吞吐率：14.13req/s] [内存消耗：4,384.43kb] [文件加载：91]
+[ error ] [0]数据表字段不存在:[name][/www/wwwroot/app.lvdoui.net/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2024-05-06T20:27:31+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.071096s] [吞吐率：14.07req/s] [内存消耗：4,402.37kb] [文件加载：90]
+[ error ] [0]variable type error：array[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/Request.php:1162]
+---------------------------------------------------------------
+[ 2024-05-06T20:28:09+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.099613s] [吞吐率：10.04req/s] [内存消耗：4,353.82kb] [文件加载：92]
+[ error ] [2]Invalid argument supplied for foreach()[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/Model.php:1052]
+---------------------------------------------------------------
+[ 2024-05-06T20:29:44+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.075012s] [吞吐率：13.33req/s] [内存消耗：4,447.51kb] [文件加载：93]
+[ error ] [0]类的属性不存在:app\common\model\box\App->build_type[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/Model.php:626]
+---------------------------------------------------------------
+[ 2024-05-06T20:34:06+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.074801s] [吞吐率：13.37req/s] [内存消耗：4,457.66kb] [文件加载：95]
+[ error ] [8]未定义数组索引: build_type[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:186]
+---------------------------------------------------------------
+[ 2024-05-06T20:41:30+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.070617s] [吞吐率：14.16req/s] [内存消耗：4,412.13kb] [文件加载：91]
+[ error ] [0]method not exist:think\db\Query->firstOrNew[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/db/Query.php:103]
+---------------------------------------------------------------
+[ 2024-05-06T20:41:32+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.073985s] [吞吐率：13.52req/s] [内存消耗：4,412.13kb] [文件加载：91]
+[ error ] [0]method not exist:think\db\Query->firstOrNew[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/db/Query.php:103]
+---------------------------------------------------------------
+[ 2024-05-06T20:41:36+08:00 ] 112.51.202.234 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.074485s] [吞吐率：13.43req/s] [内存消耗：4,412.13kb] [文件加载：91]
+[ error ] [0]method not exist:think\db\Query->firstOrNew[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/db/Query.php:103]
+---------------------------------------------------------------
+[ 2024-05-06T21:48:42+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.080227s] [吞吐率：12.46req/s] [内存消耗：4,615.38kb] [文件加载：97]
+[ error ] [8]未定义变量: appList[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:74]
+---------------------------------------------------------------
+[ 2024-05-06T21:49:37+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.079814s] [吞吐率：12.53req/s] [内存消耗：4,615.81kb] [文件加载：97]
+[ error ] [8]未定义变量: appList[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:74]
+---------------------------------------------------------------
+[ 2024-05-06T21:53:59+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10001&dialog=1
+[运行时间：0.080475s] [吞吐率：12.43req/s] [内存消耗：4,615.87kb] [文件加载：97]
+[ error ] [8]未定义变量: appList[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:74]
+---------------------------------------------------------------
+[ 2024-05-06T22:13:39+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.095026s] [吞吐率：10.52req/s] [内存消耗：4,618.06kb] [文件加载：97]
+[ error ] [8]Array to string conversion[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:75]
+---------------------------------------------------------------
+[ 2024-05-06T22:13:57+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.080490s] [吞吐率：12.42req/s] [内存消耗：4,618.06kb] [文件加载：97]
+[ error ] [8]Array to string conversion[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:75]
+---------------------------------------------------------------
+[ 2024-05-06T22:21:03+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.079515s] [吞吐率：12.58req/s] [内存消耗：4,617.77kb] [文件加载：97]
+[ error ] [8]未定义变量: key[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:74]
+---------------------------------------------------------------
+[ 2024-05-06T22:22:22+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.073246s] [吞吐率：13.65req/s] [内存消耗：4,438.81kb] [文件加载：94]
+[ error ] [8]Array to string conversion[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:76]
+---------------------------------------------------------------
+[ 2024-05-06T22:40:26+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.075094s] [吞吐率：13.32req/s] [内存消耗：4,459.57kb] [文件加载：95]
+[ error ] [8]未定义数组索引: app_list[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:76]
+---------------------------------------------------------------
+[ 2024-05-06T22:40:30+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10001&dialog=1
+[运行时间：0.074838s] [吞吐率：13.36req/s] [内存消耗：4,459.59kb] [文件加载：95]
+[ error ] [8]未定义数组索引: app_list[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:76]
+---------------------------------------------------------------
+[ 2024-05-06T22:41:05+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10002&dialog=1
+[运行时间：0.074850s] [吞吐率：13.36req/s] [内存消耗：4,459.57kb] [文件加载：95]
+[ error ] [8]未定义数组索引: app_list[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:76]
+---------------------------------------------------------------
+[ 2024-05-06T23:55:07+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10000&dialog=1
+[运行时间：0.127652s] [吞吐率：7.83req/s] [内存消耗：4,369.40kb] [文件加载：91]
+[ error ] [2]Illegal string offset 'data'[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:104]
+---------------------------------------------------------------
+[ 2024-05-06T23:55:27+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10000&dialog=1
+[运行时间：0.138493s] [吞吐率：7.22req/s] [内存消耗：4,369.40kb] [文件加载：91]
+[ error ] [2]Illegal string offset 'data'[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:104]
+---------------------------------------------------------------
+[ 2024-05-06T23:56:10+08:00 ] 112.51.202.234 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?id=10000&dialog=1
+[运行时间：0.119019s] [吞吐率：8.40req/s] [内存消耗：4,369.71kb] [文件加载：91]
+[ error ] [2]Illegal string offset 'data'[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:104]

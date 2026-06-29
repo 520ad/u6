@@ -1,0 +1,80 @@
+---------------------------------------------------------------
+[ 2024-07-01T09:41:25+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.268772s] [吞吐率：3.72req/s] [内存消耗：4,497.54kb] [文件加载：96]
+[ error ] [8]未定义变量: authkey[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:74]
+---------------------------------------------------------------
+[ 2024-07-01T09:42:34+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.152225s] [吞吐率：6.57req/s] [内存消耗：4,501.64kb] [文件加载：96]
+[ error ] [8]Trying to access array offset on value of type int[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:94]
+---------------------------------------------------------------
+[ 2024-07-01T09:42:40+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.153477s] [吞吐率：6.52req/s] [内存消耗：4,501.64kb] [文件加载：96]
+[ error ] [8]Trying to access array offset on value of type int[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:94]
+---------------------------------------------------------------
+[ 2024-07-01T09:42:54+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.150210s] [吞吐率：6.66req/s] [内存消耗：4,501.64kb] [文件加载：96]
+[ error ] [8]Trying to access array offset on value of type int[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:94]
+---------------------------------------------------------------
+[ 2024-07-01T09:43:43+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.153109s] [吞吐率：6.53req/s] [内存消耗：4,667.09kb] [文件加载：98]
+[ error ] [8]Trying to access array offset on value of type int[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:94]
+---------------------------------------------------------------
+[ 2024-07-01T09:45:40+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.154008s] [吞吐率：6.49req/s] [内存消耗：4,494.25kb] [文件加载：96]
+[ error ] [8]未定义数组索引: name[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:84]
+---------------------------------------------------------------
+[ 2024-07-01T09:55:48+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.148534s] [吞吐率：6.73req/s] [内存消耗：4,464.94kb] [文件加载：95]
+[ error ] [8]未定义数组索引: msg.branch[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:52]
+---------------------------------------------------------------
+[ 2024-07-01T10:12:29+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.146716s] [吞吐率：6.82req/s] [内存消耗：4,502.14kb] [文件加载：96]
+[ error ] [8]未定义数组索引: build_key[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:84]
+---------------------------------------------------------------
+[ 2024-07-01T10:28:50+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.164928s] [吞吐率：6.06req/s] [内存消耗：4,468.48kb] [文件加载：95]
+[ error ] [8]未定义数组索引: legal_task[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:50]
+---------------------------------------------------------------
+[ 2024-07-01T10:30:24+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.207550s] [吞吐率：4.82req/s] [内存消耗：4,468.48kb] [文件加载：95]
+[ error ] [8]未定义数组索引: legal_key[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:65]
+---------------------------------------------------------------
+[ 2024-07-01T10:31:40+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10002&dialog=1
+[运行时间：0.144444s] [吞吐率：6.92req/s] [内存消耗：4,466.59kb] [文件加载：95]
+[ error ] [8]未定义数组索引: legal_info[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:50]
+---------------------------------------------------------------
+[ 2024-07-01T10:31:45+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10004&dialog=1
+[运行时间：0.146473s] [吞吐率：6.83req/s] [内存消耗：4,466.41kb] [文件加载：95]
+[ error ] [8]未定义数组索引: legal_info[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:50]
+---------------------------------------------------------------
+[ 2024-07-01T10:32:48+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10001&dialog=1
+[运行时间：0.150093s] [吞吐率：6.66req/s] [内存消耗：4,467.44kb] [文件加载：95]
+[ error ] [8]未定义数组索引: legal_info[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:50]
+---------------------------------------------------------------
+[ 2024-07-01T10:32:52+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10001&dialog=1
+[运行时间：0.146845s] [吞吐率：6.81req/s] [内存消耗：4,467.44kb] [文件加载：95]
+[ error ] [8]未定义数组索引: legal_info[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:50]
+---------------------------------------------------------------
+[ 2024-07-01T10:32:55+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10002&dialog=1
+[运行时间：0.153607s] [吞吐率：6.51req/s] [内存消耗：4,466.59kb] [文件加载：95]
+[ error ] [8]未定义数组索引: legal_info[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:50]
+---------------------------------------------------------------
+[ 2024-07-01T11:27:31+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10002&dialog=1
+[运行时间：0.152315s] [吞吐率：6.57req/s] [内存消耗：4,466.59kb] [文件加载：95]
+[ error ] [8]未定义数组索引: legal_info[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:50]
+---------------------------------------------------------------
+[ 2024-07-01T11:40:19+08:00 ] 112.51.202.26 POST app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.139923s] [吞吐率：7.15req/s] [内存消耗：4,445.59kb] [文件加载：93]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:37]
+---------------------------------------------------------------
+[ 2024-07-01T12:05:30+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10001&dialog=1
+[运行时间：0.153066s] [吞吐率：6.53req/s] [内存消耗：4,467.74kb] [文件加载：95]
+[ error ] [8]未定义数组索引: legal_info[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:51]
+---------------------------------------------------------------
+[ 2024-07-01T12:05:43+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10002&dialog=1
+[运行时间：0.152254s] [吞吐率：6.57req/s] [内存消耗：4,466.90kb] [文件加载：95]
+[ error ] [8]未定义数组索引: build_key[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:68]
+---------------------------------------------------------------
+[ 2024-07-01T12:07:13+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10001&dialog=1
+[运行时间：0.151420s] [吞吐率：6.60req/s] [内存消耗：4,467.74kb] [文件加载：95]
+[ error ] [8]未定义数组索引: msg[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:81]

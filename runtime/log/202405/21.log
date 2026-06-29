@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2024-05-21T08:46:54+08:00 ] 112.51.201.69 POST app.lvdoui.net/api/cashier/heartbeat
+[运行时间：0.070692s] [吞吐率：14.15req/s] [内存消耗：3,117.48kb] [文件加载：83]
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/db/Connection.php:295]

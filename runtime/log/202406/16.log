@@ -1,0 +1,8 @@
+---------------------------------------------------------------
+[ 2024-06-16T20:03:08+08:00 ] 112.51.202.53 POST app.lvdoui.net/api/group/index
+[运行时间：0.108726s] [吞吐率：9.20req/s] [内存消耗：4,091.13kb] [文件加载：94]
+[ error ] [0]致命错误: Class 'app\common\model\UserGroup' not found[/www/wwwroot/app.lvdoui.net/application/api/controller/Group.php:40]
+---------------------------------------------------------------
+[ 2024-06-16T20:03:12+08:00 ] 112.51.202.53 POST app.lvdoui.net/api/group/index
+[运行时间：0.069133s] [吞吐率：14.46req/s] [内存消耗：4,091.13kb] [文件加载：94]
+[ error ] [0]致命错误: Class 'app\common\model\UserGroup' not found[/www/wwwroot/app.lvdoui.net/application/api/controller/Group.php:40]

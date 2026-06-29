@@ -1,0 +1,28 @@
+---------------------------------------------------------------
+[ 2024-05-03T06:45:56+08:00 ] 112.51.202.234 GET app.lvdoui.net/api/demo/test
+[运行时间：0.066076s] [吞吐率：15.13req/s] [内存消耗：3,026.51kb] [文件加载：84]
+[ error ] [2]file_get_contents(/www/wwwroot/app.lvdoui.net/public/../application/public/uploads/tvbox/api.json): failed to open stream: No such file or directory[/www/wwwroot/app.lvdoui.net/application/api/controller/Demo.php:22]
+---------------------------------------------------------------
+[ 2024-05-03T06:46:14+08:00 ] 112.51.202.234 GET app.lvdoui.net/api/demo/test
+[运行时间：0.066440s] [吞吐率：15.05req/s] [内存消耗：3,026.72kb] [文件加载：84]
+[ error ] [2]file_get_contents(/www/wwwroot/app.lvdoui.net/public/../application//public/uploads/tvbox/api.json): failed to open stream: No such file or directory[/www/wwwroot/app.lvdoui.net/application/api/controller/Demo.php:22]
+---------------------------------------------------------------
+[ 2024-05-03T06:47:07+08:00 ] 112.51.202.234 GET app.lvdoui.net/api/demo/test
+[运行时间：0.056045s] [吞吐率：17.84req/s] [内存消耗：3,026.25kb] [文件加载：84]
+[ error ] [8]Array to string conversion[/www/wwwroot/app.lvdoui.net/application/api/controller/Demo.php:33]
+---------------------------------------------------------------
+[ 2024-05-03T06:51:07+08:00 ] 112.51.202.234 GET app.lvdoui.net/api/demo/depot
+[运行时间：0.049563s] [吞吐率：20.18req/s] [内存消耗：3,023.41kb] [文件加载：84]
+[ error ] [8]未定义数组索引: lives[/www/wwwroot/app.lvdoui.net/application/api/controller/Demo.php:32]
+---------------------------------------------------------------
+[ 2024-05-03T06:52:31+08:00 ] 112.51.202.234 GET app.lvdoui.net/api/demo/depot
+[运行时间：0.050673s] [吞吐率：19.73req/s] [内存消耗：3,024.25kb] [文件加载：84]
+[ error ] [8]未定义数组索引: lives[/www/wwwroot/app.lvdoui.net/application/api/controller/Demo.php:34]
+---------------------------------------------------------------
+[ 2024-05-03T07:17:34+08:00 ] 112.51.202.234 GET app.lvdoui.net/api/index/store?id=1&appid=10000
+[运行时间：0.064200s] [吞吐率：15.58req/s] [内存消耗：4,055.72kb] [文件加载：93]
+[ error ] [8]未定义变量: epgpng[/www/wwwroot/app.lvdoui.net/application/api/controller/Index.php:101]
+---------------------------------------------------------------
+[ 2024-05-03T07:54:16+08:00 ] 112.51.202.234 GET app.lvdoui.net//api/update/app?app_id=10001&version=2.3.3240503&apk_mark=mobileJavaArm64_v8a
+[运行时间：0.042616s] [吞吐率：23.47req/s] [内存消耗：1,878.85kb] [文件加载：58]
+[ error ] [2]mkdir(): File exists[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/cache/driver/File.php:84]

@@ -1,0 +1,36 @@
+---------------------------------------------------------------
+[ 2024-05-05T05:48:18+08:00 ] 112.51.202.234 GET app.lvdoui.net//api/update/app?app_id=10001&version=2.3.3240503&apk_mark=lvdou-box-ui-6
+[运行时间：0.042634s] [吞吐率：23.46req/s] [内存消耗：1,879.13kb] [文件加载：58]
+[ error ] [2]mkdir(): File exists[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/cache/driver/File.php:84]
+---------------------------------------------------------------
+[ 2024-05-05T05:49:41+08:00 ] 112.51.202.234 GET app.lvdoui.net//api/update/app?app_id=10001&version=2.3.3240503&apk_mark=lvdou-box-ui-6
+[运行时间：0.042578s] [吞吐率：23.49req/s] [内存消耗：1,879.13kb] [文件加载：58]
+[ error ] [2]mkdir(): File exists[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/cache/driver/File.php:84]
+---------------------------------------------------------------
+[ 2024-05-05T05:56:04+08:00 ] 112.51.202.234 GET app.lvdoui.net//api/update/app?app_id=10001&version=2.3.3240503&apk_mark=lvdou-box-ui-6
+[运行时间：0.076436s] [吞吐率：13.08req/s] [内存消耗：3,282.07kb] [文件加载：88]
+[ error ] [2]mkdir(): File exists[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/cache/driver/File.php:84]
+---------------------------------------------------------------
+[ 2024-05-05T05:59:20+08:00 ] 112.51.202.234 GET app.lvdoui.net/api/main/init?app_id=10001&sign=e2e5eb3c57355165e657a83d35660356b31548dc51008ada6c58856a89f0b6fd&time=1714859962&version=2.3.3240503&apk_mark=lvdou-box-ui-6
+[运行时间：0.042557s] [吞吐率：23.50req/s] [内存消耗：1,879.61kb] [文件加载：58]
+[ error ] [2]mkdir(): File exists[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/cache/driver/File.php:84]
+---------------------------------------------------------------
+[ 2024-05-05T06:00:05+08:00 ] 112.51.202.234 GET app.lvdoui.net//api/update/app?app_id=10001&version=2.3.3240503&apk_mark=lvdou-box-ui-6
+[运行时间：0.042974s] [吞吐率：23.27req/s] [内存消耗：1,879.13kb] [文件加载：58]
+[ error ] [2]mkdir(): File exists[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/cache/driver/File.php:84]
+---------------------------------------------------------------
+[ 2024-05-05T06:00:20+08:00 ] 112.51.202.234 GET app.lvdoui.net//api/update/app?app_id=10001&version=2.3.3240503&apk_mark=lvdou-box-ui-6
+[运行时间：0.042781s] [吞吐率：23.37req/s] [内存消耗：1,879.13kb] [文件加载：58]
+[ error ] [2]mkdir(): File exists[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/cache/driver/File.php:84]
+---------------------------------------------------------------
+[ 2024-05-05T06:48:23+08:00 ] 112.51.202.234 GET app.lvdoui.net//api/update/app?app_id=10001&version=2.3.3240503&apk_mark=lvdou-box-ui-6
+[运行时间：0.042583s] [吞吐率：23.48req/s] [内存消耗：1,878.97kb] [文件加载：58]
+[ error ] [2]mkdir(): File exists[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/cache/driver/File.php:84]
+---------------------------------------------------------------
+[ 2024-05-05T07:55:05+08:00 ] 112.51.202.234 GET app.lvdoui.net//api/update/app?app_id=10001&version=2.3.3240503&apk_mark=lvdou-box-ui-6
+[运行时间：0.042747s] [吞吐率：23.39req/s] [内存消耗：1,878.97kb] [文件加载：58]
+[ error ] [2]mkdir(): File exists[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/cache/driver/File.php:84]
+---------------------------------------------------------------
+[ 2024-05-05T07:55:41+08:00 ] 112.51.202.234 GET app.lvdoui.net//api/update/app?app_id=10001&version=2.3.3240503&apk_mark=lvdou-box-ui-6
+[运行时间：0.042637s] [吞吐率：23.45req/s] [内存消耗：1,878.97kb] [文件加载：58]
+[ error ] [2]mkdir(): File exists[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/cache/driver/File.php:84]

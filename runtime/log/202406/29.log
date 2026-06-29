@@ -1,0 +1,64 @@
+---------------------------------------------------------------
+[ 2024-06-29T22:10:49+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10004&dialog=1
+[运行时间：0.167312s] [吞吐率：5.98req/s] [内存消耗：4,466.56kb] [文件加载：94]
+[ error ] [8]未定义变量: row[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:68]
+---------------------------------------------------------------
+[ 2024-06-29T22:11:49+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10004&dialog=1
+[运行时间：0.184005s] [吞吐率：5.43req/s] [内存消耗：4,636.66kb] [文件加载：96]
+[ error ] [8]未定义变量: row[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:68]
+---------------------------------------------------------------
+[ 2024-06-29T22:12:21+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10004&dialog=1
+[运行时间：0.147138s] [吞吐率：6.80req/s] [内存消耗：4,636.78kb] [文件加载：96]
+[ error ] [8]未定义变量: appListList[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:86]
+---------------------------------------------------------------
+[ 2024-06-29T22:13:08+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10004&dialog=1
+[运行时间：0.133478s] [吞吐率：7.49req/s] [内存消耗：4,446.36kb] [文件加载：93]
+[ error ] [2]Illegal string offset 'msg'[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:92]
+---------------------------------------------------------------
+[ 2024-06-29T22:14:17+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10004&dialog=1
+[运行时间：0.140278s] [吞吐率：7.13req/s] [内存消耗：4,446.42kb] [文件加载：93]
+[ error ] [2]Illegal string offset 'msg'[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:75]
+---------------------------------------------------------------
+[ 2024-06-29T22:14:34+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10004&dialog=1
+[运行时间：0.142530s] [吞吐率：7.02req/s] [内存消耗：4,446.42kb] [文件加载：93]
+[ error ] [2]Illegal string offset 'msg'[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:76]
+---------------------------------------------------------------
+[ 2024-06-29T22:15:00+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10004&dialog=1
+[运行时间：0.145627s] [吞吐率：6.87req/s] [内存消耗：4,467.10kb] [文件加载：94]
+[ error ] [8]未定义变量: row[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:76]
+---------------------------------------------------------------
+[ 2024-06-29T22:17:23+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10004&dialog=1
+[运行时间：0.163002s] [吞吐率：6.13req/s] [内存消耗：4,467.10kb] [文件加载：94]
+[ error ] [8]未定义变量: row[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:76]
+---------------------------------------------------------------
+[ 2024-06-29T22:17:51+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10004&dialog=1
+[运行时间：0.145851s] [吞吐率：6.86req/s] [内存消耗：4,628.46kb] [文件加载：96]
+[ error ] [8]Array to string conversion[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:76]
+---------------------------------------------------------------
+[ 2024-06-29T22:18:59+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10004&dialog=1
+[运行时间：0.141290s] [吞吐率：7.08req/s] [内存消耗：4,628.39kb] [文件加载：96]
+[ error ] [8]Array to string conversion[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:76]
+---------------------------------------------------------------
+[ 2024-06-29T22:27:16+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10004&dialog=1
+[运行时间：0.139817s] [吞吐率：7.15req/s] [内存消耗：4,446.39kb] [文件加载：93]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:93]
+---------------------------------------------------------------
+[ 2024-06-29T23:12:08+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10004&dialog=1
+[运行时间：0.155530s] [吞吐率：6.43req/s] [内存消耗：4,634.88kb] [文件加载：96]
+[ error ] [8]未定义变量: appList[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:85]
+---------------------------------------------------------------
+[ 2024-06-29T23:12:29+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10004&dialog=1
+[运行时间：0.139994s] [吞吐率：7.14req/s] [内存消耗：4,634.88kb] [文件加载：96]
+[ error ] [8]未定义变量: appList[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:85]
+---------------------------------------------------------------
+[ 2024-06-29T23:13:06+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10004&dialog=1
+[运行时间：0.147869s] [吞吐率：6.76req/s] [内存消耗：4,634.73kb] [文件加载：96]
+[ error ] [8]未定义变量: appList[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:85]
+---------------------------------------------------------------
+[ 2024-06-29T23:13:09+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10004&dialog=1
+[运行时间：0.139865s] [吞吐率：7.15req/s] [内存消耗：4,469.30kb] [文件加载：94]
+[ error ] [8]未定义变量: appList[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:85]
+---------------------------------------------------------------
+[ 2024-06-29T23:17:58+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10004&dialog=1
+[运行时间：0.148291s] [吞吐率：6.74req/s] [内存消耗：4,634.70kb] [文件加载：96]
+[ error ] [8]未定义变量: appList[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:85]

@@ -1,0 +1,4 @@
+---------------------------------------------------------------
+[ 2024-05-27T21:58:00+08:00 ] 112.51.201.76 GET app.lvdoui.net/api/update/app?app_id=10001&version=2.3.3240510&apk_mark=lvdou-box-ui-6
+[运行时间：0.071835s] [吞吐率：13.92req/s] [内存消耗：1,878.98kb] [文件加载：58]
+[ error ] [2]mkdir(): File exists[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/cache/driver/File.php:84]

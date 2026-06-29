@@ -1,0 +1,6 @@
+---------------------------------------------------------------
+[ 2024-04-12T15:05:43+08:00 ] 112.51.202.62 GET app.lvdoui.net/api/Update/app?app_id=10000&version=10..0.0&apk_mark=mobileJavaArm64_v8a
+[ error ] [10501]SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 1 ORDER BY `weigh` DESC,`id` DESC' at line 1
+---------------------------------------------------------------
+[ 2024-04-12T15:49:41+08:00 ] 112.51.202.62 GET app.lvdoui.net/api/Update/app?app_id=10000&version=3.0.240412&apk_mark=mobileJavaArm64_v8a
+[ error ] [0]查询表达式错误:!=

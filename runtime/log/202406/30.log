@@ -1,0 +1,126 @@
+---------------------------------------------------------------
+[ 2024-06-30T00:25:05+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10004&dialog=1
+[运行时间：0.178185s] [吞吐率：5.61req/s] [内存消耗：4,640.11kb] [文件加载：96]
+[ error ] [8]未定义变量: flavorsList[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:95]
+---------------------------------------------------------------
+[ 2024-06-30T13:46:51+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：1.012966s] [吞吐率：0.99req/s] [内存消耗：4,462.19kb] [文件加载：95]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:51]
+---------------------------------------------------------------
+[ 2024-06-30T13:51:21+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.144560s] [吞吐率：6.92req/s] [内存消耗：4,624.74kb] [文件加载：96]
+[ error ] [0]模板标签错误:range[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/template/TagLib.php:275]
+---------------------------------------------------------------
+[ 2024-06-30T14:45:08+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.163634s] [吞吐率：6.11req/s] [内存消耗：4,469.07kb] [文件加载：95]
+[ error ] [8]未定义数组索引: branch[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:54]
+---------------------------------------------------------------
+[ 2024-06-30T14:49:17+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.163644s] [吞吐率：6.11req/s] [内存消耗：4,486.35kb] [文件加载：96]
+[ error ] [2]Illegal string offset 'name'[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:84]
+---------------------------------------------------------------
+[ 2024-06-30T14:49:43+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.142220s] [吞吐率：7.03req/s] [内存消耗：4,486.41kb] [文件加载：96]
+[ error ] [2]Illegal string offset 'name'[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:84]
+---------------------------------------------------------------
+[ 2024-06-30T14:50:06+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.141398s] [吞吐率：7.07req/s] [内存消耗：4,486.41kb] [文件加载：96]
+[ error ] [2]Illegal string offset 'name'[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:84]
+---------------------------------------------------------------
+[ 2024-06-30T14:50:47+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.150635s] [吞吐率：6.64req/s] [内存消耗：4,486.41kb] [文件加载：96]
+[ error ] [8]Trying to access array offset on value of type int[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:84]
+---------------------------------------------------------------
+[ 2024-06-30T14:50:57+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.175931s] [吞吐率：5.68req/s] [内存消耗：4,486.38kb] [文件加载：96]
+[ error ] [2]Illegal string offset 'name'[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:84]
+---------------------------------------------------------------
+[ 2024-06-30T14:51:07+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.139299s] [吞吐率：7.18req/s] [内存消耗：4,486.41kb] [文件加载：96]
+[ error ] [2]Illegal string offset 'name'[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:84]
+---------------------------------------------------------------
+[ 2024-06-30T14:51:36+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.143745s] [吞吐率：6.96req/s] [内存消耗：4,651.86kb] [文件加载：98]
+[ error ] [2]Illegal string offset 'name'[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:84]
+---------------------------------------------------------------
+[ 2024-06-30T14:52:23+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.166757s] [吞吐率：6.00req/s] [内存消耗：4,486.42kb] [文件加载：96]
+[ error ] [2]Illegal string offset 'name'[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:84]
+---------------------------------------------------------------
+[ 2024-06-30T14:53:36+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.148694s] [吞吐率：6.73req/s] [内存消耗：4,486.48kb] [文件加载：96]
+[ error ] [2]Illegal string offset 'name'[/www/wwwroot/app.lvdoui.net/runtime/temp/aece32905c3580ca1f1d7f0eb1b8f73f.php:84]
+---------------------------------------------------------------
+[ 2024-06-30T15:28:55+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.151456s] [吞吐率：6.60req/s] [内存消耗：4,630.93kb] [文件加载：97]
+[ error ] [8]未定义数组索引: value[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/template/taglib/Cx.php:364]
+---------------------------------------------------------------
+[ 2024-06-30T15:30:01+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.206741s] [吞吐率：4.84req/s] [内存消耗：4,511.45kb] [文件加载：95]
+[ error ] [1]Uncaught think\exception\ErrorException: Array to string conversion in /www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:59
+Stack trace:
+#0 /www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php(59): think\Error::appError()
+#1 [internal function]: app\admin\controller\box\Compile->edit()
+#2 /www/wwwroot/app.lvdoui.net/thinkphp/library/think/App.php(343): ReflectionMethod->invokeArgs()
+#3 /www/wwwroot/app.lvdoui.net/thinkphp/library/think/App.php(611): think\App::invokeMethod()
+#4 /www/wwwroot/app.lvdoui.net/thinkphp/library/think/App.php(456): think\App::module()
+#5 /www/wwwroot/app.lvdoui.net/thinkphp/library/think/App.php(139): think\App::exec()
+#6 /www/wwwroot/app.lvdoui.net/public/LNVBMtkwfx.php(37): think\App::run()
+#7 {main}
+  thrown[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:59]
+---------------------------------------------------------------
+[ 2024-06-30T15:30:06+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.142476s] [吞吐率：7.02req/s] [内存消耗：4,511.45kb] [文件加载：95]
+[ error ] [1]Uncaught think\exception\ErrorException: Array to string conversion in /www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:59
+Stack trace:
+#0 /www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php(59): think\Error::appError()
+#1 [internal function]: app\admin\controller\box\Compile->edit()
+#2 /www/wwwroot/app.lvdoui.net/thinkphp/library/think/App.php(343): ReflectionMethod->invokeArgs()
+#3 /www/wwwroot/app.lvdoui.net/thinkphp/library/think/App.php(611): think\App::invokeMethod()
+#4 /www/wwwroot/app.lvdoui.net/thinkphp/library/think/App.php(456): think\App::module()
+#5 /www/wwwroot/app.lvdoui.net/thinkphp/library/think/App.php(139): think\App::exec()
+#6 /www/wwwroot/app.lvdoui.net/public/LNVBMtkwfx.php(37): think\App::run()
+#7 {main}
+  thrown[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:59]
+---------------------------------------------------------------
+[ 2024-06-30T15:30:10+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.140968s] [吞吐率：7.09req/s] [内存消耗：4,511.45kb] [文件加载：95]
+[ error ] [1]Uncaught think\exception\ErrorException: Array to string conversion in /www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:59
+Stack trace:
+#0 /www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php(59): think\Error::appError()
+#1 [internal function]: app\admin\controller\box\Compile->edit()
+#2 /www/wwwroot/app.lvdoui.net/thinkphp/library/think/App.php(343): ReflectionMethod->invokeArgs()
+#3 /www/wwwroot/app.lvdoui.net/thinkphp/library/think/App.php(611): think\App::invokeMethod()
+#4 /www/wwwroot/app.lvdoui.net/thinkphp/library/think/App.php(456): think\App::module()
+#5 /www/wwwroot/app.lvdoui.net/thinkphp/library/think/App.php(139): think\App::exec()
+#6 /www/wwwroot/app.lvdoui.net/public/LNVBMtkwfx.php(37): think\App::run()
+#7 {main}
+  thrown[/www/wwwroot/app.lvdoui.net/application/admin/controller/box/Compile.php:59]
+---------------------------------------------------------------
+[ 2024-06-30T15:31:17+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.163382s] [吞吐率：6.12req/s] [内存消耗：4,631.05kb] [文件加载：97]
+[ error ] [8]未定义数组索引: value[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/template/taglib/Cx.php:364]
+---------------------------------------------------------------
+[ 2024-06-30T15:32:44+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.143737s] [吞吐率：6.96req/s] [内存消耗：4,631.05kb] [文件加载：97]
+[ error ] [8]未定义数组索引: value[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/template/taglib/Cx.php:364]
+---------------------------------------------------------------
+[ 2024-06-30T15:33:03+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.169275s] [吞吐率：5.91req/s] [内存消耗：4,631.05kb] [文件加载：97]
+[ error ] [8]未定义数组索引: value[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/template/taglib/Cx.php:364]
+---------------------------------------------------------------
+[ 2024-06-30T15:33:06+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10001&dialog=1
+[运行时间：0.144534s] [吞吐率：6.92req/s] [内存消耗：4,630.02kb] [文件加载：97]
+[ error ] [8]未定义数组索引: value[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/template/taglib/Cx.php:364]
+---------------------------------------------------------------
+[ 2024-06-30T15:33:08+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.144005s] [吞吐率：6.94req/s] [内存消耗：4,631.05kb] [文件加载：97]
+[ error ] [8]未定义数组索引: value[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/template/taglib/Cx.php:364]
+---------------------------------------------------------------
+[ 2024-06-30T15:33:30+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.143683s] [吞吐率：6.96req/s] [内存消耗：4,631.05kb] [文件加载：97]
+[ error ] [8]未定义数组索引: value[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/template/taglib/Cx.php:364]
+---------------------------------------------------------------
+[ 2024-06-30T15:33:34+08:00 ] 112.51.202.26 GET app.lvdoui.net/LNVBMtkwfx.php/box/compile/edit?appid=10000&dialog=1
+[运行时间：0.142315s] [吞吐率：7.03req/s] [内存消耗：4,631.05kb] [文件加载：97]
+[ error ] [8]未定义数组索引: value[/www/wwwroot/app.lvdoui.net/thinkphp/library/think/template/taglib/Cx.php:364]

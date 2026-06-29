@@ -1,0 +1,380 @@
+---------------------------------------------------------------
+[ 2024-05-15T15:03:01+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.273494s] [吞吐率：3.66req/s] [内存消耗：4,083.78kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:03:30+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.133776s] [吞吐率：7.48req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:04:34+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.086536s] [吞吐率：11.56req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:05:04+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.087911s] [吞吐率：11.38req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:05:34+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.091068s] [吞吐率：10.98req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:06:04+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.092007s] [吞吐率：10.87req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:06:34+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.197066s] [吞吐率：5.07req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:07:04+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.099748s] [吞吐率：10.03req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:07:34+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.137985s] [吞吐率：7.25req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:08:04+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.090319s] [吞吐率：11.07req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:08:34+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.100647s] [吞吐率：9.94req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:09:04+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.099522s] [吞吐率：10.05req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:09:34+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.241992s] [吞吐率：4.13req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:10:04+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.101313s] [吞吐率：9.87req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:10:34+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.104687s] [吞吐率：9.55req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:11:04+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.093789s] [吞吐率：10.66req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:11:34+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.093844s] [吞吐率：10.66req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:12:04+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.114004s] [吞吐率：8.77req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:12:34+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.107673s] [吞吐率：9.29req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:13:04+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.129392s] [吞吐率：7.73req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:13:34+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.080925s] [吞吐率：12.36req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:14:04+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.090987s] [吞吐率：10.99req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:14:34+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.093445s] [吞吐率：10.70req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:15:04+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.084934s] [吞吐率：11.77req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:15:34+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.090218s] [吞吐率：11.08req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:16:04+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.182976s] [吞吐率：5.47req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:16:34+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.086237s] [吞吐率：11.60req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:17:04+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.090203s] [吞吐率：11.09req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:17:34+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.098514s] [吞吐率：10.15req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:18:04+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.075249s] [吞吐率：13.29req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:18:34+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.074546s] [吞吐率：13.41req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:19:04+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.097655s] [吞吐率：10.24req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:19:34+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.117941s] [吞吐率：8.48req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:20:04+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.085096s] [吞吐率：11.75req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:20:34+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.111199s] [吞吐率：8.99req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:21:04+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.100535s] [吞吐率：9.95req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:21:34+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.105807s] [吞吐率：9.45req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:22:04+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.081130s] [吞吐率：12.33req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:22:35+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.102544s] [吞吐率：9.75req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:23:04+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.080247s] [吞吐率：12.46req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:23:35+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.094237s] [吞吐率：10.61req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:24:05+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.073522s] [吞吐率：13.60req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:24:35+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.102161s] [吞吐率：9.79req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:25:05+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.093138s] [吞吐率：10.74req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:25:35+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.104268s] [吞吐率：9.59req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:26:05+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.099595s] [吞吐率：10.04req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:26:35+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.093813s] [吞吐率：10.66req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:27:05+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.091118s] [吞吐率：10.97req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:27:35+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.105690s] [吞吐率：9.46req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:28:05+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.090132s] [吞吐率：11.09req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:28:35+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.093740s] [吞吐率：10.67req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:29:05+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.087888s] [吞吐率：11.38req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:29:35+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.096290s] [吞吐率：10.39req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:30:05+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.086680s] [吞吐率：11.54req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:30:35+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.086017s] [吞吐率：11.63req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:31:05+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.092734s] [吞吐率：10.78req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:31:35+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.112171s] [吞吐率：8.91req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:32:05+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.092921s] [吞吐率：10.76req/s] [内存消耗：4,083.79kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:32:35+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.085304s] [吞吐率：11.72req/s] [内存消耗：4,083.78kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:33:05+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.087855s] [吞吐率：11.38req/s] [内存消耗：4,083.84kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:33:35+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.074661s] [吞吐率：13.39req/s] [内存消耗：4,083.84kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:224]
+---------------------------------------------------------------
+[ 2024-05-15T15:34:05+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.073986s] [吞吐率：13.52req/s] [内存消耗：4,083.84kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:225]
+---------------------------------------------------------------
+[ 2024-05-15T15:34:35+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.087571s] [吞吐率：11.42req/s] [内存消耗：4,083.91kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:225]
+---------------------------------------------------------------
+[ 2024-05-15T15:35:05+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.092423s] [吞吐率：10.82req/s] [内存消耗：4,083.91kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:225]
+---------------------------------------------------------------
+[ 2024-05-15T15:35:35+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.089150s] [吞吐率：11.22req/s] [内存消耗：4,083.91kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:225]
+---------------------------------------------------------------
+[ 2024-05-15T15:39:05+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.087849s] [吞吐率：11.38req/s] [内存消耗：4,082.02kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:176]
+---------------------------------------------------------------
+[ 2024-05-15T15:39:35+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.089355s] [吞吐率：11.19req/s] [内存消耗：4,082.02kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:176]
+---------------------------------------------------------------
+[ 2024-05-15T15:40:05+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.093905s] [吞吐率：10.65req/s] [内存消耗：4,082.02kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:176]
+---------------------------------------------------------------
+[ 2024-05-15T15:40:35+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.077208s] [吞吐率：12.95req/s] [内存消耗：4,082.02kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:176]
+---------------------------------------------------------------
+[ 2024-05-15T15:41:05+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.074664s] [吞吐率：13.39req/s] [内存消耗：4,082.02kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:176]
+---------------------------------------------------------------
+[ 2024-05-15T15:41:35+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.102344s] [吞吐率：9.77req/s] [内存消耗：4,082.02kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:176]
+---------------------------------------------------------------
+[ 2024-05-15T15:42:05+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.093808s] [吞吐率：10.66req/s] [内存消耗：4,082.02kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:176]
+---------------------------------------------------------------
+[ 2024-05-15T15:42:35+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.097856s] [吞吐率：10.22req/s] [内存消耗：4,082.02kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:176]
+---------------------------------------------------------------
+[ 2024-05-15T15:43:05+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.087403s] [吞吐率：11.44req/s] [内存消耗：4,082.02kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:176]
+---------------------------------------------------------------
+[ 2024-05-15T15:43:35+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.100549s] [吞吐率：9.95req/s] [内存消耗：4,082.02kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:176]
+---------------------------------------------------------------
+[ 2024-05-15T15:44:05+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.093032s] [吞吐率：10.75req/s] [内存消耗：4,082.02kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:176]
+---------------------------------------------------------------
+[ 2024-05-15T15:44:35+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.103674s] [吞吐率：9.65req/s] [内存消耗：4,082.02kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:176]
+---------------------------------------------------------------
+[ 2024-05-15T15:45:05+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.090661s] [吞吐率：11.03req/s] [内存消耗：4,082.02kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:176]
+---------------------------------------------------------------
+[ 2024-05-15T15:45:35+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.094147s] [吞吐率：10.62req/s] [内存消耗：4,082.02kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:176]
+---------------------------------------------------------------
+[ 2024-05-15T15:46:05+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.086511s] [吞吐率：11.56req/s] [内存消耗：4,082.02kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:176]
+---------------------------------------------------------------
+[ 2024-05-15T15:46:35+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.083699s] [吞吐率：11.95req/s] [内存消耗：4,082.02kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:176]
+---------------------------------------------------------------
+[ 2024-05-15T15:47:05+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat?id=https%3A%2F%2Fapp.lvdoui.net%2Fapi%2Fcashier%2Fheartbeat
+[运行时间：0.087203s] [吞吐率：11.47req/s] [内存消耗：4,082.02kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:176]
+---------------------------------------------------------------
+[ 2024-05-15T16:09:45+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat
+[运行时间：0.077813s] [吞吐率：12.85req/s] [内存消耗：4,085.19kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:176]
+---------------------------------------------------------------
+[ 2024-05-15T16:09:51+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat
+[运行时间：0.087063s] [吞吐率：11.49req/s] [内存消耗：4,085.19kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:176]
+---------------------------------------------------------------
+[ 2024-05-15T16:10:05+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat
+[运行时间：0.097643s] [吞吐率：10.24req/s] [内存消耗：4,085.25kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:176]
+---------------------------------------------------------------
+[ 2024-05-15T16:10:17+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat
+[运行时间：0.091909s] [吞吐率：10.88req/s] [内存消耗：4,086.36kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:176]
+---------------------------------------------------------------
+[ 2024-05-15T16:10:23+08:00 ] 112.51.201.69 GET app.lvdoui.net/api/cashier/heartbeat
+[运行时间：0.074170s] [吞吐率：13.48req/s] [内存消耗：4,086.61kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:176]
+---------------------------------------------------------------
+[ 2024-05-15T16:11:59+08:00 ] 112.51.201.69 POST app.lvdoui.net/api/cashier/heartbeat
+[运行时间：0.094339s] [吞吐率：10.60req/s] [内存消耗：4,097.11kb] [文件加载：94]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:180]
+---------------------------------------------------------------
+[ 2024-05-15T16:34:34+08:00 ] 59.83.208.105 GET app.lvdoui.net/api/cashier/heartbeat
+[运行时间：0.112052s] [吞吐率：8.92req/s] [内存消耗：4,085.68kb] [文件加载：93]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/api/controller/Cashier.php:176]
+---------------------------------------------------------------
+[ 2024-05-15T19:47:46+08:00 ] 112.51.201.69 POST app.lvdoui.net//index/recharge/pushOrders
+[运行时间：0.072894s] [吞吐率：13.72req/s] [内存消耗：4,016.87kb] [文件加载：88]
+[ error ] [0]致命错误: Object of class think\response\Json could not be converted to string[/www/wwwroot/app.lvdoui.net/application/index/controller/Recharge.php:190]
+---------------------------------------------------------------
+[ 2024-05-15T19:51:50+08:00 ] 112.51.201.69 POST app.lvdoui.net//index/recharge/pushOrders
+[运行时间：0.058060s] [吞吐率：17.22req/s] [内存消耗：3,200.38kb] [文件加载：82]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/index/controller/Recharge.php:202]
+---------------------------------------------------------------
+[ 2024-05-15T19:52:59+08:00 ] 112.51.201.69 POST app.lvdoui.net//index/recharge/pushOrders
+[运行时间：0.052609s] [吞吐率：19.01req/s] [内存消耗：3,200.38kb] [文件加载：82]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/index/controller/Recharge.php:201]
+---------------------------------------------------------------
+[ 2024-05-15T19:53:06+08:00 ] 112.51.201.69 POST app.lvdoui.net//index/recharge/pushOrders
+[运行时间：0.055684s] [吞吐率：17.96req/s] [内存消耗：3,218.82kb] [文件加载：83]
+[ error ] [8]未定义数组索引: id[/www/wwwroot/app.lvdoui.net/application/index/controller/Recharge.php:204]
+---------------------------------------------------------------
+[ 2024-05-15T19:53:13+08:00 ] 112.51.201.69 POST app.lvdoui.net//index/recharge/pushOrders
+[运行时间：0.082549s] [吞吐率：12.11req/s] [内存消耗：4,148.84kb] [文件加载：89]
+[ error ] [8]Trying to access array offset on value of type null[/www/wwwroot/app.lvdoui.net/application/index/controller/Recharge.php:206]
+---------------------------------------------------------------
+[ 2024-05-15T21:46:26+08:00 ] 180.163.30.76 GET app.lvdoui.net//index/recharge/pushOrders
+[运行时间：0.051342s] [吞吐率：19.48req/s] [内存消耗：3,139.99kb] [文件加载：80]
+[ error ] [8]未定义数组索引: sign[/www/wwwroot/app.lvdoui.net/application/index/controller/Recharge.php:207]
